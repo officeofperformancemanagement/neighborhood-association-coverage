@@ -1,0 +1,32 @@
+name: build-main
+run-name: build-main
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # every day at midnight
+    - cron: 0 0 * * *
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    name: download and save data
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v4
+
+      - run: npm install
+
+      - run: node main.js
+
+      - run: ls
+
+      # prevents fatal: detected dubious ownership in repository at '/__w/neighborhood-association-coverage/neighborhood-association-coverage'
+      - run: git config --global --add safe.directory /__w/neighborhood-association-coverage/neighborhood-association-coverage
+
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v5
