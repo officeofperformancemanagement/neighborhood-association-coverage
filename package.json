@@ -1,0 +1,15 @@
+{
+  "name": "neighborhood-association-coverage",
+  "version": "0.0.0",
+  "description": "Calculate the Number of People Covered by a Neighborhood Association",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "private": true,
+  "dependencies": {
+    "geoblaze": "^2.8.0"
+  }
+}
