@@ -1,4 +1,5 @@
 # neighborhood-association-coverage
+Calculates Percentage of Chattanoogans Covered by a Neighborhood Association
 
 ## view results at the following link
 https://github.com/officeofperformancemanagement/neighborhood-association-coverage/blob/main/results.txt
