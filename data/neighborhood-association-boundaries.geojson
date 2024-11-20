@@ -21102,6 +21102,66 @@
         "name": "Fire Pink Trail HOA",
         "description": "Contact: Nancy Ruby<br>Email: nruby37377@aol.com<br><br>Meeting Location: Annual Meeting and Board Meetings held at 4660 Fire Pink Trail<br><br>Meeting Time: TBD<br><br>NRS: Marcie Keith | mkeith@chattanooga.gov"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.1817117,
+                35.0996172
+              ],
+              [
+                -85.1807354,
+                35.0987482
+              ],
+              [
+                -85.1774846,
+                35.0986165
+              ],
+              [
+                -85.1764868,
+                35.0991783
+              ],
+              [
+                -85.1748238,
+                35.1019959
+              ],
+              [
+                -85.1762829,
+                35.1025489
+              ],
+              [
+                -85.1816474,
+                35.1021627
+              ],
+              [
+                -85.1822911,
+                35.1015922
+              ],
+              [
+                -85.1828812,
+                35.1005915
+              ],
+              [
+                -85.1827095,
+                35.1002229
+              ],
+              [
+                -85.1817117,
+                35.0996172
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Moss Landing Homeowners Association",
+        "description": "Vice-President: Aaron Fowles<br>Contact: afowles@gmail.com<br><br>Meeting Location: Board Meetings Virtual | Annual Meeting - Doubletree Hotel in Hamilton Place<br><br>Meeting Time: Annual Meeting - Dec 10th (in general, they meet in November) | Board Meetings - as needed, will be quarterly. Annual Meeting - 6PM | Board Meetings - 6PM<br><br>NRS: Karen Clay | kclay@chattanooga.gov"
+      }
     }
   ],
   "crs": {
