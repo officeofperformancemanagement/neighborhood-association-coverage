@@ -29,7 +29,7 @@ console.log("coverage:", coverage);
 const result = coverage / total;
 console.log("precise coverage:", result);
 
-const percentage = Math.round(coverage * 100 / total);
+const percentage = Math.round(coverage * 10000 / total) / 100;
 console.log("percent coverage:", percentage + "%");
 
 writeFileSync("./results.txt", `
