@@ -16,8 +16,9 @@ const georaster = await geoblaze.parse(population_url);
 const [total] = await geoblaze.sum(georaster, { srs: 4326, geometry: city_council_data }, undefined, { vrm: "minimal", rescale: true });
 console.log("total:", total);
 
-// fetch neighborhood association boundaries
+console.log("fetching neighborhood association boundaries");
 const neighborhood_association_boundaries_response = await fetch("https://www.chattadata.org/resource/dxzz-idjy.geojson");
+console.log("fetched neighborhood association boundaries");
 const neighborhood_association_boundaries_data = await neighborhood_association_boundaries_response.json();
 writeFileSync("./data/neighborhood-association-boundaries.geojson", JSON.stringify(neighborhood_association_boundaries_data, undefined, 2));
 
