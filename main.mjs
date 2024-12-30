@@ -17,7 +17,9 @@ const [total] = await geoblaze.sum(georaster, { srs: 4326, geometry: city_counci
 console.log("total:", total);
 
 console.log("fetching neighborhood association boundaries");
-const neighborhood_association_boundaries_response = await fetch("https://www.chattadata.org/resource/dxzz-idjy.geojson");
+const neighborhood_association_boundaries_response = await fetch("https://www.chattadata.org/resource/dxzz-idjy.geojson", {
+  signal: AbortSignal.timeout(60 * 1000) // wait 60 seconds before timing out
+});
 console.log("fetched neighborhood association boundaries");
 const neighborhood_association_boundaries_data = await neighborhood_association_boundaries_response.json();
 writeFileSync("./data/neighborhood-association-boundaries.geojson", JSON.stringify(neighborhood_association_boundaries_data, undefined, 2));
