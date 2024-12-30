@@ -1,4 +1,5 @@
 import { writeFileSync } from "node:fs";
+import { fetch, Agent } from "undici";
 import geoblaze from "geoblaze";
 
 // fetch boundaries of the City of Chattanooga
