@@ -2,7 +2,7 @@ import { writeFileSync } from "node:fs";
 import geoblaze from "geoblaze";
 
 // fetch boundaries of the City of Chattanooga
-const city_council_response = await fetch("https://internal.chattadata.org/resource/5t2x-jnde.geojson");
+const city_council_response = await fetch("https://internal.chattadata.org/api/views/5t2x-jnde/rows.geojson");
 const city_council_data = await city_council_response.json();
 writeFileSync("./data/city-council-districts.geojson", JSON.stringify(city_council_data, undefined, 2));
 
