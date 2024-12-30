@@ -1,5 +1,4 @@
 import { writeFileSync } from "node:fs";
-import { fetch, Agent } from "undici";
 import geoblaze from "geoblaze";
 
 // fetch boundaries of the City of Chattanooga
@@ -18,9 +17,8 @@ const [total] = await geoblaze.sum(georaster, { srs: 4326, geometry: city_counci
 console.log("total:", total);
 
 console.log("fetching neighborhood association boundaries");
-const neighborhood_association_boundaries_response = await fetch("https://www.chattadata.org/resource/dxzz-idjy.geojson", {
-  signal: AbortSignal.timeout(60 * 1000) // wait 60 seconds before timing out
-});
+// using undocumented API, which seems to be more reliable
+const neighborhood_association_boundaries_response = await fetch("https://www.chattadata.org/api/views/dxzz-idjy/rows.geojson");
 console.log("fetched neighborhood association boundaries");
 const neighborhood_association_boundaries_data = await neighborhood_association_boundaries_response.json();
 writeFileSync("./data/neighborhood-association-boundaries.geojson", JSON.stringify(neighborhood_association_boundaries_data, undefined, 2));
