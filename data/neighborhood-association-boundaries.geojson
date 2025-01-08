@@ -74,11 +74,11 @@
       },
       "properties": {
         "name": "Ridgedale Community Association",
-        ":version": "rv-jrid_p63z.hzyt",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-tim8~fwgn_ghg9",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Acting President - Jeremiah Reynolds<br>Email: ridgedale423@gmail.com<br><br>Meeting Location: Redbug's Venue, 2314 E 13th St, Chattanooga, TN 37404<br><br>Meeting Time: 4th Thursday Monthly, 6:30PM<br><br>Facebook: www.fb.com/RidgedaleChattanooga<br>Email: ridgedale423@gmail.com<br><br>Neighborhood Relations Specialist: Karen Clay<br>NRS Email: kclay@chattanooga.gov<br>NRS Phone: 423-643-7306",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-zrb9.jy7w_iufz"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-7sz3~ezas~d2jk"
       }
     },
     {
@@ -142,11 +142,11 @@
       },
       "properties": {
         "name": "Historical Organization of Ferger Place",
-        ":version": "rv-qjag_gzks_2wwh",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-yrz6_w3y3.f9pz",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Chase Esteves<br><br>Contact Information: a.chase.esteves@gmail.com<br><br>Meeting Location: 202 Eveningside Dr.<br><br>Day/Time: 3rd Thursday Monthly | 7PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-wk5n-c335~58vg"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-vdsv_9gh9.qq3r"
       }
     },
     {
@@ -350,11 +350,11 @@
       },
       "properties": {
         "name": "Highland Park Neighborhood Association",
-        ":version": "rv-dgn5_gbrm~y5ut",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-vd3e-bt5i-i3qw",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Highland Park Neighborhood Association<br>President: Emerson Burch<br><br>Contact Information: Eaburch@gmail.com<br><br>Meeting Location: Via Zoom<br>Day/Time: TBD @ 7:00pm<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-jxdw_vdg8~ktvq"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-aizp_zscx-t2f8"
       }
     },
     {
@@ -490,11 +490,223 @@
       },
       "properties": {
         "name": "Churchville Neighborhood Association",
-        ":version": "rv-bgpt.dqxu~tnxp",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-p4zu-qp4u-rbmj",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Johnnie Ware<br><br>Contact Information: j_ware@aol.com<br><br>Meeting Location: Carver Community Center, 601 N. Orchard Knob Ave <br><br>Day/Time: 2nd Thursday monthly at 5:30 PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-isph~gfb2_3af3"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-qtd9~qkpb~aiq8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.2898923,
+                35.0819833
+              ],
+              [
+                -85.2896831,
+                35.0794723
+              ],
+              [
+                -85.2895705,
+                35.0787787
+              ],
+              [
+                -85.2892754,
+                35.0782958
+              ],
+              [
+                -85.288916,
+                35.0778831
+              ],
+              [
+                -85.288511,
+                35.0773497
+              ],
+              [
+                -85.2882669,
+                35.0767987
+              ],
+              [
+                -85.287886,
+                35.0768383
+              ],
+              [
+                -85.2876125,
+                35.0769305
+              ],
+              [
+                -85.2873389,
+                35.0771895
+              ],
+              [
+                -85.2871082,
+                35.077128
+              ],
+              [
+                -85.2867595,
+                35.0771104
+              ],
+              [
+                -85.2868346,
+                35.0776373
+              ],
+              [
+                -85.2868131,
+                35.0785592
+              ],
+              [
+                -85.2865664,
+                35.0798674
+              ],
+              [
+                -85.286266,
+                35.080719
+              ],
+              [
+                -85.2857188,
+                35.0809824
+              ],
+              [
+                -85.2854506,
+                35.081079
+              ],
+              [
+                -85.2853111,
+                35.0812634
+              ],
+              [
+                -85.2854613,
+                35.0816848
+              ],
+              [
+                -85.2860514,
+                35.0822204
+              ],
+              [
+                -85.2876822,
+                35.0827647
+              ],
+              [
+                -85.288519,
+                35.0832476
+              ],
+              [
+                -85.2898923,
+                35.0819833
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "North Riverview Neighborhood Association",
+        ":version": "rv-unbt.msz7.f6yj",
+        ":created_at": "2025-01-08T18:45:03.821Z",
+        "description": "President (interim) - Lea Anne Wiles<br>Contact: lawiles@aol.com<br><br>Meeting Time: Third Thursday Quarterly, Jan/Apr/Jul/Oct | 530-7.<br><br>Meeting Place: Las Margaritas Mexican Restaurant, 1101 Hixson Pike G, Chattanooga, TN 37405<br><br>Neighborhood Relations Specialist: Summer Foster; sfoster@chattanooga.gov | 423-643-7351",
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-m3wx~n56v~6992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.3203981,
+                35.1145319
+              ],
+              [
+                -85.3204089,
+                35.1142774
+              ],
+              [
+                -85.3206127,
+                35.1139
+              ],
+              [
+                -85.3206127,
+                35.1133998
+              ],
+              [
+                -85.3203552,
+                35.1130926
+              ],
+              [
+                -85.3196203,
+                35.1124431
+              ],
+              [
+                -85.3194111,
+                35.1114426
+              ],
+              [
+                -85.3197115,
+                35.1103806
+              ],
+              [
+                -85.3197973,
+                35.11017
+              ],
+              [
+                -85.3193467,
+                35.1101524
+              ],
+              [
+                -85.3152214,
+                35.1148742
+              ],
+              [
+                -85.3159028,
+                35.1151989
+              ],
+              [
+                -85.316171,
+                35.1152076
+              ],
+              [
+                -85.316407,
+                35.1148478
+              ],
+              [
+                -85.3171956,
+                35.114115
+              ],
+              [
+                -85.3173726,
+                35.1140843
+              ],
+              [
+                -85.3183167,
+                35.1146548
+              ],
+              [
+                -85.3194647,
+                35.114725
+              ],
+              [
+                -85.3203981,
+                35.1145319
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Oxford Homeowners Association",
+        ":version": "rv-gfr9-xqqr~622x",
+        ":created_at": "2025-01-08T18:45:03.821Z",
+        "description": "President: Ralph Noble<br>Contact: noble@catt.com<br><br>Meeting Time: Monthly, date caries at 5:30 PM<br>Meeting Location: 801 Wellstone Dr, Chattanooga, TN 37405  Neighborhood Relations Specialist: Marcie Keith 423.643.7311 or mkeith@chattanooga.gov",
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-prd5-e88q~av63"
       }
     },
     {
@@ -690,11 +902,67 @@
       },
       "properties": {
         "name": "Battery Heights Neighborhood Association",
-        ":version": "rv-cppq-zyjw~qsr3",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-tmx9.bdq8.jtac",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President:\tRonald L. Gilbert \tContact Information:\tgillamron1956@gmail.com\tMeeting Location:\tEast Chattanooga Community Center, 2409 Dodson Avenue, Chattanooga, TN 37406\tMeeting Date(s)/Time:\t1st Mondays Quarterly, 5:00 PM (Jan, Apr, July, Oct)\tSocial/Web/ListServ:\t\tNeighborhood Relations Specialist:\tKaren Clay\tat\t423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-4x62~xt94~zybd"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-a32r_m45b-5sgk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.1447175,
+                35.0065216
+              ],
+              [
+                -85.1449643,
+                35.0061218
+              ],
+              [
+                -85.1443957,
+                35.0059021
+              ],
+              [
+                -85.1437144,
+                35.0074707
+              ],
+              [
+                -85.143988,
+                35.0075059
+              ],
+              [
+                -85.1445083,
+                35.0075234
+              ],
+              [
+                -85.1448248,
+                35.0073169
+              ],
+              [
+                -85.145195,
+                35.0066886
+              ],
+              [
+                -85.1447175,
+                35.0065216
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "The Cove at Kinsey",
+        ":version": "rv-2yt3-qxgn~thhw",
+        ":created_at": "2025-01-08T18:45:03.821Z",
+        "description": "President: Becky Murphy<br>Contact: 423-596-2724<br><br>Meeting Date/Time: TBD<br>Meeting Location: TBD<br><br>NRS: Perrin Lance",
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-d28i-r4jp.724p"
       }
     },
     {
@@ -842,11 +1110,11 @@
       },
       "properties": {
         "name": "Madison Place HOA",
-        ":version": "rv-b7ik-4up2_3vmd",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-d2b8.cins.9s3h",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Deborah Cary <br><br>Contact Information: deborah.cary@liaisonscorp.com <br><br>Meeting Location: Contact President <br><br>Day/Time: Quarterly, 6:00PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ugck.kf67.hgee"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-rwxb_7mer~5kaz"
       }
     },
     {
@@ -1094,11 +1362,11 @@
       },
       "properties": {
         "name": "Fort Negley Neighborhood Association",
-        ":version": "rv-uyqt.2vj9_8u54",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-gkvh_m6hc_vpwr",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Erik Zilen<br>Email: ezilen@niedlovs.com<br><br>Meeting Location: Niedlovs Bakery and Cafe <br><br>Meeting Time: As Needed 5:00PM<br><br>Neighborhood Relations Specialist: Summer Foster; sfoster@chattanooga.gov l 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-zvxj.eqsy_c4m7"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-atui-58h6.qhcp"
       }
     },
     {
@@ -1618,11 +1886,11 @@
       },
       "properties": {
         "name": "Valleybrook-Windbrook HOA",
-        ":version": "rv-yvvg-zs8e.sw3m",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-ghhe~gfqu~ur96",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President:\tGreg Taylor\tContact Information:\ttaylorgl@comcast.net; mkirk@bbschool.org\tMeeting Location:\tValleybrook Golf & Country Clubhouse, Valleybrook Road\tMeeting Date(s)/Time:\t1st Monday, Monthly, 6:00PM\tSocial/Web/ListServ:\t\tNeighborhood Relations Specialist:\tKaren Clay\tat\t423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-uamc.vt6h_weje"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-szg7_rx4q~5wmy"
       }
     },
     {
@@ -1798,11 +2066,11 @@
       },
       "properties": {
         "name": "Valleybrook Park Townhomes Association",
-        ":version": "rv-wgpv_iqgv_mq76",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-93vf.38h4.j6ik",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President:\tDavid E. Sergeant\tContact Information:\tsergeantdavid@yahoo.com\tMeeting Location:\tBurks United Methodist Church\tMeeting Date(s)/Time:\tContact President\tSocial/Web/ListServ:\t\tNeighborhood Relations Specialist:\tKaren Clay\tat\t423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-c3zh-d53a.mjmh"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-xf3k_pnzx-wdhn"
       }
     },
     {
@@ -1954,11 +2222,11 @@
       },
       "properties": {
         "name": "Kingsridge Neighborhood Association",
-        ":version": "rv-jefz~3kzv_4sue",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-nbuk~xguy_c3rq",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Misty Anderson<br><br>Contact Information: medicaremisty@gmail.com<br><br>Meeting Location: TBD<br><br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-dkwe~6twm~3hkk"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-kk29.tcam.3g2f"
       }
     },
     {
@@ -2250,11 +2518,11 @@
       },
       "properties": {
         "name": "Bal Harbor HOA",
-        ":version": "rv-239z.5frp~e3aa",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-d3aw.vg79~rxmc",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President:\tBobby L. Golden\tContact Information:\tgoldenbl@juno.com\tMeeting Location:\tBy Phone\tMeeting Date(s)/Time:\tContact President\tSocial/Web/ListServ:\t\tNeighborhood Relations Specialist:\tKaren Clay\tat\t423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-au43-2m8k.v8b4"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-q9q9~2t7r_9tnf"
       }
     },
     {
@@ -2820,11 +3088,11 @@
       },
       "properties": {
         "name": "Black Creek Community Association & Neighborhood Watch Group",
-        ":version": "rv-3kb4_qhp2.bkxk",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-3zi9_m8u4~ay6p",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Black Creek Community Association<br>President: BayLee Long<br>Contact: Community@blackcreekliving.com<br> Phone: 423-368-3036<br><br>Black Creek Neighborhood Watch<br>President: Craig Fulton<br>Meeting Location: Black Creek Clubhouse<br>Day/Time: Annually (Generally in February)<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-zvcy_v4vh~hhnf"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-e8h8-k4db~qpg2"
       }
     },
     {
@@ -3060,11 +3328,11 @@
       },
       "properties": {
         "name": "Riverside Area Community Club",
-        ":version": "rv-jcxd~uidm_3xjq",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-u3pf.kge3.cvec",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Janice Gooden<br><br>Contact Information: janice.gooden@comcast.net<br><br>Meeting Location: Venue @ 909 Crutchfield St.<br><br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-w8yx_xzq4~gnm5"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-vwgp-c9a8~zxut"
       }
     },
     {
@@ -3672,11 +3940,11 @@
       },
       "properties": {
         "name": "Washington Hills Neighborhood Association",
-        ":version": "rv-seht-87me~zcz8",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-xqc2.mepw-esxd",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Sonya McShan<br><br>Contact Information: sonya.mcshan@erlanger.org<br><br>Meeting Location: Washington Hills Community Center, 4628 Oakwood Dr.<br><br>Day/Time: 4th Monday, Monthly, 6PM<br><br>Facebook Group Page: https://www.facebook.com/people/Washington-Hills-Neighborhood-Association/100064489938066/<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov          ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-9hnz-6t2f_dvez"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-cyqu.xhik_52xr"
       }
     },
     {
@@ -4168,11 +4436,11 @@
       },
       "properties": {
         "name": "Silverdale Neighborhood Association",
-        ":version": "rv-ve6m-z4u7.w8pb",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-wirz_vhbw_5nrc",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President:\tRichard Williams \tContact Information:\tRcwilliams284@gmail.com, 423-284-3873 \tMeeting Location:\tSilverdale Cumberland Presbyterian church 7407 Bonny Oaks Dr. Chattanooga TN 37421\tMeeting Date(s)/Time:\tQuarterly at 6PM\tSocial/Web/ListServ:\t\tNeighborhood Relations Specialist:\tKaren Clay\tat\t423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-uapm_qnpd.tcsx"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-kre2-v76d_8jub"
       }
     },
     {
@@ -4256,11 +4524,11 @@
       },
       "properties": {
         "name": "Midfield Acres Community Club",
-        ":version": "rv-36ti-87bv-um22",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-3y5f_vmds.7awj",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President:\tNan Zamata\t<br><br>Contact Information:\t midfieldacres@gmail.com; nezamata@gmail.com\t<br><br>Meeting Location:\tVaries<br><br>\tMeeting Date(s)/Time:\tAd hoc meetings, 6:00PM<br><br>\tNeighborhood Relations Specialist:\tKaren Clay\tat\t423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-j6f7~5w9e~ma5c"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-bc8x-3yhq-x6dz"
       }
     },
     {
@@ -4296,11 +4564,11 @@
       },
       "properties": {
         "name": "Georgetown Trace Neighborhood Association",
-        ":version": "rv-65sz.nynx-ef8t",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-fbkf-bznn-emev",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Meeting Location: 1604 Foxhall Lane Chattanooga TN 37421<br><br>Meeting Time: 3 Meetings Yearly, TBD<br><br>President: Ansell Tanley<br>Contact: georgetowntracehoa@gmail.com",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-d8pm~94cf.x7sw"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-jrjk_qay4.re5f"
       }
     },
     {
@@ -4436,11 +4704,11 @@
       },
       "properties": {
         "name": "Longview-Hickory",
-        ":version": "rv-zpg8.siem.u8xt",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-sutf.m6bd_ai9y",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Longview-Hickory\tPresident:\tDeede Wells Gram\tContact Information:\tsleepyeyeacre@gmail.com\tMeeting Location:\tContact President\tMeeting Date(s)/Time:\tContact President\tSocial/Web/ListServ:\t\tNeighborhood Relations Specialist:\tKaren Clay\tat\t423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ct6v_cr66.6hqu"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-mt83~gzmj~gwfp"
       }
     },
     {
@@ -4548,11 +4816,11 @@
       },
       "properties": {
         "name": "Hickory Trace Homeowners Association",
-        ":version": "rv-rwdb_gwvk-am28",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-7a48-kydh~2zak",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Hickory Trace Homeowners Association<br>President: Katherine Cross<br><br>Contact Information: kcross3590@epbfi.com<br><br>Meeting Location: Neighborhood Yard<br>Day/Time: May or June | 6:00 – 7:00pm<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ujp8-khte~hmj6"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-j4nd.x298_wp2p"
       }
     },
     {
@@ -5324,11 +5592,11 @@
       },
       "properties": {
         "name": "Shepherd Community Action Council",
-        ":version": "rv-ffvh-7zc5~7u2r",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-u74q~8wje-phaj",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President:\tMalcolm J. Walker\tContact Information:\tmalcolm1946@aol.com; istrickland@chattanooga.gov\tMeeting Location:\tShepherd Recreation Center, 2124 E. Shepherd Rd.\tMeeting Date(s)/Time:\t1st Sunday Monthly, 7:00PM\tSocial/Web/ListServ:\t\tNeighborhood Relations Specialist:\tKaren Clay\tat\t423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-4kys_quw7_4efd"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-n5qr.g9zp-3v2c"
       }
     },
     {
@@ -5792,11 +6060,11 @@
       },
       "properties": {
         "name": "Brainerd Park North Neighborhood Association",
-        ":version": "rv-bf3h-s5ei_rxbv",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-gyee-99dx-xwe9",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Sandra Ledford <br><br>Contact Information: ledford.sandra@gmail.com <br><br>Meeting Location: Contact President <br><br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-qid2-yyhz.wrci"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-sibh~5zv7.h37h"
       }
     },
     {
@@ -6024,11 +6292,11 @@
       },
       "properties": {
         "name": "Shawnee Hills Neighborhood Association",
-        ":version": "rv-367y_expn-tpjf",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-78m7-svnz.43i3",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Richard Atkerson<br><br>Contact Information: ShawneeHillsNA@gmail.com<br><br>Meeting Location: Zoom<br><br>Day/Time: 1st Tuesday, Monthly, 6PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov           ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-z632.bgt2_n99c"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-zsmf.mpwa.6k3f"
       }
     },
     {
@@ -6464,11 +6732,11 @@
       },
       "properties": {
         "name": "Woodmore Neighborhood Association",
-        ":version": "rv-s8px_hz5f.f5q2",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-jjrn.vd3j-zv46",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Ezra Harris<br><br>Contact Information: ezraharristn@aol.com<br><br>Meeting Location: 901 Woodmore LN New Monumental Baptist Church<br><br>Day/Time: 3rd Thursday Monthly, 6PM (Summer Recess June-September No meetings)<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or  mkeith@chattanooga.gov   ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-9mms~57rn-2h4u"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-prmj-3dsm.afje"
       }
     },
     {
@@ -6688,11 +6956,11 @@
       },
       "properties": {
         "name": "North Brainerd Sunshine Neighborhood Association",
-        ":version": "rv-hpre_biff-q7wi",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-6n6z_p69x~ec8m",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Dale Ledford<br><br>Contact Information: rdledford@epbfi.com<br><br>Meeting Location: TBD<br><br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov  ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-rusg-q45q~x7ud"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-xspm-czgj-3i7u"
       }
     },
     {
@@ -6980,11 +7248,11 @@
       },
       "properties": {
         "name": "Belvoir Neighborhood Association",
-        ":version": "rv-q2sc-2ycy~ap9b",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-xru9.vipd-geih",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Belvoir Neighborhood Association<br>President: Brian and Barbara Thompson<br><br>Contact Information: BelvoirChatt@gmail.com <br><br>Meeting Location: BX (Brainerd Crossroads)<br>Day/Time: 2nd Thursday of the month (December meeting is a Holiday Caroling Event & Food Drive, and the July meeting is a Fourth of July picnic) @6:30 – 7:30pm<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-syws~rswe_ixqx"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-s56x.2eay.gkea"
       }
     },
     {
@@ -7544,11 +7812,11 @@
       },
       "properties": {
         "name": "Olde Town Brainerd Association",
-        ":version": "rv-drjv-3cnv.3v34",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-n5d9.7f2p.mrwn",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Olde Town Brainerd Neighborhood Association<br>President: Ashley Cofield<br><br>Contact Information: cofieldaj@gmail.com <br><br>Meeting Location: Humidor Cigar Bar and Lounge 3202 Brainerd Rd, Chattanooga, TN 37411<br>Day/Time: The 3rd Thursday of the month @ 600pm<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-vzn7~kcnq_rrz6"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-d8uq.c7f8_fssj"
       }
     },
     {
@@ -7920,11 +8188,11 @@
       },
       "properties": {
         "name": "Menlo Park Neighborhood Association",
-        ":version": "rv-iyhe-ydi8.ts8n",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-sar3~cagg_ka4a",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Menlo Park Neighborhood Association<br>President: Helena Kelley (Acting President)<br><br>Contact Information: Doll4794@yahoo.com<br><br>Meeting Location: TD<br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-qmnd.ifv7-gtd7"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-w2rg_3b3h~wdkm"
       }
     },
     {
@@ -8460,11 +8728,191 @@
       },
       "properties": {
         "name": "Biltmore Neighborhood Association",
-        ":version": "rv-zih9-9tjm.d4pg",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-tq4x_xbeu_s9gp",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President:\tCrystal Smith\tContact Information:\tcysmith4@aol.com\tMeeting Location:\tChurch - Contact President\tMeeting Date(s)/Time:\tContact President\tSocial/Web/ListServ:\t\tNeighborhood Relations Specialist:\tKaren Clay\tat\t423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-cnd2-bpit.hcue"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-3ety~aj62-4hhd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.2805299,
+                35.1164674
+              ],
+              [
+                -85.2817584,
+                35.1160681
+              ],
+              [
+                -85.2833838,
+                35.1140013
+              ],
+              [
+                -85.2842689,
+                35.1123689
+              ],
+              [
+                -85.2844782,
+                35.1109296
+              ],
+              [
+                -85.2837647,
+                35.1104732
+              ],
+              [
+                -85.2835233,
+                35.1095955
+              ],
+              [
+                -85.2823109,
+                35.1094726
+              ],
+              [
+                -85.2812883,
+                35.108792
+              ],
+              [
+                -85.2791458,
+                35.1072257
+              ],
+              [
+                -85.2769894,
+                35.1056897
+              ],
+              [
+                -85.2761981,
+                35.1052597
+              ],
+              [
+                -85.275321,
+                35.1049349
+              ],
+              [
+                -85.2733845,
+                35.1043468
+              ],
+              [
+                -85.2722902,
+                35.1065147
+              ],
+              [
+                -85.2710564,
+                35.1092532
+              ],
+              [
+                -85.2701123,
+                35.1109998
+              ],
+              [
+                -85.2711502,
+                35.1114518
+              ],
+              [
+                -85.2719951,
+                35.1120266
+              ],
+              [
+                -85.2746291,
+                35.114326
+              ],
+              [
+                -85.2805299,
+                35.1164674
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Manchester Park Neighborhood Association",
+        ":version": "rv-3ss9_ahsf-d8hf",
+        ":created_at": "2025-01-08T18:45:03.821Z",
+        "description": "President: Angela Tuttle<br>Contact: angelabt@yahoo.com<br><br>Meeting Date & Time:  Every other month on second Saturday at 10AM - July, Sept, Nov, Jan, Mar, May<br><br>Meeting Location: Manchester Park Church of Christ l 835 Mauldeth Rd, Chattanooga, TN 37415<br><br>NRS: Summer Foster ; sfoster@chattanooga.gov | 423-643-7351<br><br>FB: https://www.facebook.com/profile.php?id=61557586712637",
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-9uef.abg2.syjr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.3209303,
+                35.0228763
+              ],
+              [
+                -85.3214721,
+                35.0227445
+              ],
+              [
+                -85.3215848,
+                35.0226215
+              ],
+              [
+                -85.3223465,
+                35.0212113
+              ],
+              [
+                -85.3223787,
+                35.0210971
+              ],
+              [
+                -85.3220568,
+                35.0207237
+              ],
+              [
+                -85.3218208,
+                35.0206182
+              ],
+              [
+                -85.3217135,
+                35.0206885
+              ],
+              [
+                -85.3211475,
+                35.0217626
+              ],
+              [
+                -85.3210242,
+                35.0219384
+              ],
+              [
+                -85.3201739,
+                35.0223579
+              ],
+              [
+                -85.3205762,
+                35.0228148
+              ],
+              [
+                -85.3207801,
+                35.0229026
+              ],
+              [
+                -85.3209303,
+                35.0228763
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "100 South Broad",
+        ":version": "rv-urnv.3naz_6dmz",
+        ":created_at": "2025-01-08T18:45:03.821Z",
+        "description": "President: Joel Wineman<br><br>NRS: Perrin Lance; pjlance@chattanooga.gov | 423-567-5389",
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-8nwr-stpx~3s23"
       }
     },
     {
@@ -8876,11 +9324,11 @@
       },
       "properties": {
         "name": "Missionary Ridge Neighborhood Association",
-        ":version": "rv-rxv2_uj78~zvpk",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-icqn.47mu~8c89",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Missionary Ridge Neighborhood Association<br>President: Ashley Raymond<br><br>Contact Information: ashlraymond@gmail.com<br><br>Meeting Location: TD<br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-7ryh~9uw8_rmci"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-rhmq.arjs~9t5m"
       }
     },
     {
@@ -9592,11 +10040,11 @@
       },
       "properties": {
         "name": "East Lake Neighborhood Association ",
-        ":version": "rv-z99c_8upv-uthz",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-9fju~mg76.r7px",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Jazmine LeBlanc<br>Email: elnachattanoogatn@gmail.com<br><br>Meeting Location: 3610 Dodds & 3208 15th Ave<br><br>Meeting Time: 1st Monday of even months | 6:30 PM<br>                      https://www.facebook.com/ThisIsEastLake/                                                                                              Neighborhood Relations Specialist: Perrin Lance; pjlance@chattanooga.gov | 423-653-2393",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-aswb~4kdj_mt88"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-rpww_f3em_rwke"
       }
     },
     {
@@ -9900,11 +10348,307 @@
       },
       "properties": {
         "name": "Lincoln Park Neighborhood Association",
-        ":version": "rv-nw8d_cchz-e94c",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-r99u-fmsw-j8wn",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Vanice Hughley<br><br>Contact Information: (423) 266-2567, tsle500@att.net<br><br>Meeting Location: TBD<br><br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-uib6-n48k_p3f8"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-8ab4~gzi6~a8w5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.1269452,
+                35.0126809
+              ],
+              [
+                -85.1270525,
+                35.0122943
+              ],
+              [
+                -85.1269291,
+                35.0122679
+              ],
+              [
+                -85.1264356,
+                35.0121053
+              ],
+              [
+                -85.1261781,
+                35.0116879
+              ],
+              [
+                -85.1260064,
+                35.0112046
+              ],
+              [
+                -85.1254378,
+                35.0108751
+              ],
+              [
+                -85.1247995,
+                35.010673
+              ],
+              [
+                -85.1244293,
+                35.0108268
+              ],
+              [
+                -85.1239143,
+                35.0106401
+              ],
+              [
+                -85.1233457,
+                35.0107082
+              ],
+              [
+                -85.1228844,
+                35.0112486
+              ],
+              [
+                -85.1227502,
+                35.0113804
+              ],
+              [
+                -85.1225786,
+                35.0115298
+              ],
+              [
+                -85.1223908,
+                35.0116792
+              ],
+              [
+                -85.1223426,
+                35.0118725
+              ],
+              [
+                -85.1224016,
+                35.0120043
+              ],
+              [
+                -85.1225518,
+                35.012057
+              ],
+              [
+                -85.1225303,
+                35.0122284
+              ],
+              [
+                -85.122482,
+                35.0125227
+              ],
+              [
+                -85.1225357,
+                35.0126897
+              ],
+              [
+                -85.1227663,
+                35.0127776
+              ],
+              [
+                -85.1230238,
+                35.0128566
+              ],
+              [
+                -85.1232438,
+                35.012883
+              ],
+              [
+                -85.1234852,
+                35.0128479
+              ],
+              [
+                -85.1236837,
+                35.0127424
+              ],
+              [
+                -85.1237427,
+                35.0125315
+              ],
+              [
+                -85.1239841,
+                35.0121888
+              ],
+              [
+                -85.1241718,
+                35.0120526
+              ],
+              [
+                -85.1245902,
+                35.0118813
+              ],
+              [
+                -85.1247351,
+                35.0118637
+              ],
+              [
+                -85.1250784,
+                35.0118988
+              ],
+              [
+                -85.1251696,
+                35.0120438
+              ],
+              [
+                -85.1252662,
+                35.0122196
+              ],
+              [
+                -85.1259957,
+                35.0123733
+              ],
+              [
+                -85.1261406,
+                35.0124876
+              ],
+              [
+                -85.1263176,
+                35.0125315
+              ],
+              [
+                -85.1269452,
+                35.0126809
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ellington Place HOA",
+        ":version": "rv-ecvz_35ac~4ukp",
+        ":created_at": "2025-01-08T18:45:03.821Z",
+        "description": "President: Mary Iorio<br><br>NRS: Perrin Lance; pjlance@chattanooga.gov | 423-567-5389",
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-f42i_xz5f-a3th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.2054908,
+                35.1404431
+              ],
+              [
+                -85.2047934,
+                35.1404168
+              ],
+              [
+                -85.2042784,
+                35.141031
+              ],
+              [
+                -85.2040638,
+                35.1436805
+              ],
+              [
+                -85.2034201,
+                35.1438121
+              ],
+              [
+                -85.2031197,
+                35.1443034
+              ],
+              [
+                -85.2035059,
+                35.1445666
+              ],
+              [
+                -85.2056839,
+                35.1449613
+              ],
+              [
+                -85.2065636,
+                35.1451456
+              ],
+              [
+                -85.2068077,
+                35.145139
+              ],
+              [
+                -85.2071966,
+                35.1451851
+              ],
+              [
+                -85.2072664,
+                35.1450513
+              ],
+              [
+                -85.207312,
+                35.1449251
+              ],
+              [
+                -85.2073147,
+                35.1448034
+              ],
+              [
+                -85.2077116,
+                35.1440051
+              ],
+              [
+                -85.2077975,
+                35.1436454
+              ],
+              [
+                -85.2080764,
+                35.1427154
+              ],
+              [
+                -85.2082266,
+                35.1422768
+              ],
+              [
+                -85.2076151,
+                35.1420925
+              ],
+              [
+                -85.2073254,
+                35.1420048
+              ],
+              [
+                -85.2071966,
+                35.1417328
+              ],
+              [
+                -85.2067675,
+                35.1413117
+              ],
+              [
+                -85.2064778,
+                35.1412942
+              ],
+              [
+                -85.2061238,
+                35.1412766
+              ],
+              [
+                -85.2062525,
+                35.1407678
+              ],
+              [
+                -85.2054908,
+                35.1404431
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Amberbrook Gardens HOA",
+        ":version": "rv-8r3s_nf3e-dtna",
+        ":created_at": "2025-01-08T18:45:03.821Z",
+        "description": "President: Elizabeth Goss<br>Email: elizabeth.m.goss@gmail.com<br><br>Meeting Location: North Hixson Church of God, 5428 Cassandra Smith Road, Hixson, TN 37343<br><br>Meeting Date: (General Meeting: Yearly, usually November) (Board Meetings: Monthly)<br>Meeting Time: 7PM<br><br>NRS: Karen Clay | kclay@chattanooga.gov | 423-355-7003",
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-ytti~gvfv-gb4p"
       }
     },
     {
@@ -10336,11 +11080,11 @@
       },
       "properties": {
         "name": "Martin Luther King Neighborhood Association",
-        ":version": "rv-2fis_p83d-atzt",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-c8pe.r5sm.h38c",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Merri Mai Williamson<br><br>Contact Information: merrimaiwilliamson@gmail.com <br><br>Meeting Location: Contact President <br><br>Day/Time: 1st Wednesday Monthly (MUST REQUEST) 6:30PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-7jsh.brdz.buu8"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-rfw7-3r8v-ptzv"
       }
     },
     {
@@ -11160,11 +11904,11 @@
       },
       "properties": {
         "name": "Downtown Owners Collective",
-        ":version": "rv-23ez.38fz-93x3",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-vewk_mwih_rtek",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President:\tHelen Burns Sharp<br><br>\tContact Information:\tuntiedlaces@gmail.com\t<br><br>Meeting Location:\tPuckett's Restaurant\tMeeting<br><br> Date(s)/Time:\tAs needed, 5:15PM<br><br> Neighborhood Relations Specialist: Summer Foster; sfoster@chattanooga.gov | 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-6s9i.s5g5_k7f7"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-v6a8_tebr_8xps"
       }
     },
     {
@@ -11460,11 +12204,183 @@
       },
       "properties": {
         "name": "Eastdale Neighborhood Association",
-        ":version": "rv-w2ms.rpbt-22bw",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-m6mc_cdbd~t545",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President:\tJeffery Evans\tContact Information:\telderj.e.evans14@gmail.com; 423-486-6193\tMeeting Location:\tEastdale Recreation Center, 1312 Moss Drive\tMeeting Date(s)/Time:\tContact President\tSocial/Web/ListServ:\t\tNeighborhood Relations Specialist:\tKaren Clay\tat\t423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-9jsb-nv9a-2g39"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-rg9p.xvjz_jb5p"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.1574007,
+                35.0020477
+              ],
+              [
+                -85.1575831,
+                35.0018499
+              ],
+              [
+                -85.1578996,
+                35.0017708
+              ],
+              [
+                -85.1580176,
+                35.0015731
+              ],
+              [
+                -85.1590583,
+                34.9995122
+              ],
+              [
+                -85.1584414,
+                34.9992661
+              ],
+              [
+                -85.158133,
+                34.9998263
+              ],
+              [
+                -85.1577038,
+                34.9996638
+              ],
+              [
+                -85.1567033,
+                35.0014808
+              ],
+              [
+                -85.1569984,
+                35.0017445
+              ],
+              [
+                -85.1572317,
+                35.0019774
+              ],
+              [
+                -85.1574007,
+                35.0020477
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Davidson Place Homeowners Association",
+        ":version": "rv-wvhi.9ssr_hiip",
+        ":created_at": "2025-01-08T18:45:03.821Z",
+        "description": "President: John Thompson<br>Contact: jcretired@epbfi.com<br><br>Meeting Place: Varies<br>Meeting Time: Quarterly, Varies<br><br>NRS: Summer Foster | sfoster@chattanooga.gov",
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-vibn-3ps3.5vrm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.1308906,
+                35.0007332
+              ],
+              [
+                -85.131765,
+                34.9997796
+              ],
+              [
+                -85.1329613,
+                34.9988085
+              ],
+              [
+                -85.135504,
+                34.9933682
+              ],
+              [
+                -85.1358473,
+                34.9919267
+              ],
+              [
+                -85.1394951,
+                34.9866177
+              ],
+              [
+                -85.1266634,
+                34.9866881
+              ],
+              [
+                -85.1253331,
+                34.9872155
+              ],
+              [
+                -85.1237881,
+                34.9866529
+              ],
+              [
+                -85.1179945,
+                34.9866177
+              ],
+              [
+                -85.1170075,
+                34.9879186
+              ],
+              [
+                -85.1156771,
+                34.9891492
+              ],
+              [
+                -85.1153767,
+                34.9913994
+              ],
+              [
+                -85.1160634,
+                34.9926299
+              ],
+              [
+                -85.1199257,
+                34.9926299
+              ],
+              [
+                -85.1214707,
+                34.9938604
+              ],
+              [
+                -85.1239169,
+                34.9940362
+              ],
+              [
+                -85.1252472,
+                34.9956885
+              ],
+              [
+                -85.1277363,
+                34.9975166
+              ],
+              [
+                -85.1303863,
+                35.0001883
+              ],
+              [
+                -85.1308906,
+                35.0007332
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Hurricane Creek Homeowners Association",
+        ":version": "rv-z2h3.n4wp_kdbh",
+        ":created_at": "2025-01-08T18:45:03.821Z",
+        "description": "President: Nick Von Werssowetz<br>Contact: Volksnick@gmail.com; 423 240 4388<br><br>Meeting Date/Time: First Thursday of Each Month, 6PM<br>Meeting Location: Christ United Methodist Church, Building A, 8645 East Brainerd Road, Chattanooga, TN 37421 <br><br>NRS: Summer Foster | sfoster@chattanooga.gov; 423-643-7351",
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-ttpv-h5gw.nn4a"
       }
     },
     {
@@ -12032,11 +12948,11 @@
       },
       "properties": {
         "name": "Northwoods Neighborhood Association",
-        ":version": "rv-pm8h~tviv-f4i6",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-5vxs-irkx_5vsn",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President:\tGene Huffine\tContact Information:\tghuffine2012@gmail.com\tMeeting Location:\tTBD\tMeeting Date(s)/Time:\tContact President\tSocial/Web/ListServ:\t\tNeighborhood Relations Specialist:\tKaren Clay\tat\t423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-k3i4-4iha-vcah"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-4er9_6j6u-sb9m"
       }
     },
     {
@@ -12180,11 +13096,11 @@
       },
       "properties": {
         "name": "Elder Cove Home Owners Association",
-        ":version": "rv-razs_pspq.mznh",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-7xnf-2kbe.qkbb",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Andy Holstead<br><br>Contact Information: eldercovehoa@gmail.com<br><br>Meeting Location: TBD<br><br>Day/Time: TBD, as needed 6PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-v6bm~nqfu.hatu"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-kqfu_hepk.kiyg"
       }
     },
     {
@@ -12296,11 +13212,11 @@
       },
       "properties": {
         "name": "Baker Hilltop Neighborhood Association",
-        ":version": "rv-f94g_vw4e~dmi6",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-5ph6~9mg8.wq5d",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Farron Kilburn<br>Email: farronkilburn@gmail.com<br><br>Meeting Location: Depends on date<br><br>Meeting Time: Quarterly                                                                                                                                  Neighborhood Relations Specialist: Perrin Lance; pjlance@chattanooga.gov | 423-653-2393",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-u8cr~xdb3.5yvy"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-4kv8-y9q5~77kb"
       }
     },
     {
@@ -12488,11 +13404,11 @@
       },
       "properties": {
         "name": "The Fairhills Neighborhood Association",
-        ":version": "rv-gjjj.9pjy.dmyz",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-6iif~g6n9_atz5",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Kelley Elliott<br>Email:  kelliott333@gmail.com<br><br>Meeting Location: <br>Meeting Time: <br><br>Neighborhood Relation Specialist: Summer Foster; sfoster@chattanooga.gov | 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ez2b-24jy.3ybz"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-7mix~6xch~rsnp"
       }
     },
     {
@@ -12820,11 +13736,11 @@
       },
       "properties": {
         "name": "South Chattanooga Community Association",
-        ":version": "rv-hc8y_3xsr~nuts",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-qqyp_j8un_gwss",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Damien Vinson<br>Email: dvinson@chattanooga.gov                             https://www.facebook.com/p/South-Chattanooga-Community-Association-100064591993853/<br><br>Meeting Location: South Chattanooga Community Center<br><br>Meeting Time: 4th Monday Monthly | 6PM - 7:30 PM<br><br>Neighborhood Relations Specialist: Summer Foster; sfoster@chattanoogva.gov| 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-qbxd-sgmw_px92"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-yim8~qmjr-4bbt"
       }
     },
     {
@@ -12896,11 +13812,11 @@
       },
       "properties": {
         "name": "Oak Hills Elite Neighborhood Association",
-        ":version": "rv-5mn4-2xny.ff2c",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-j8p8~8s4i~6fce",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Terry Mccullough <br>Email: mccullought64@epbfi.com/oakhillselite@epbfi.com<br><br>Meeting Location: 1151 West 40th St<br><br>Meeting Time: 4th Thursday Monthly at 6PM<br><br>Neighborhood Relations Specialist: Summer Foster; sfoster@chattanooga.gov | 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-d789~b2gq_dp34"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-zx2v~vpgg_neud"
       }
     },
     {
@@ -13720,11 +14636,11 @@
       },
       "properties": {
         "name": "Stuart Heights Neighborhood Association",
-        ":version": "rv-i4wq-hj2f-s7xs",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-hjqp.w24e_j6u7",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Whitney Bacalman                                    Contact Info: info@stuartheights.net                                                                                                              Meeting Location: St. Luke UMC, 3210 Social Circle                                                                                                                                                                      Meeting Date & Time: Last Thursday of February, Last Thursday of August at 6pm                                                                                                                      Social/Web: https://stuartheights.net                                                                                                              Neighborhood Relations Specialist: Perrin Lance; pjlance@chattanooga.gov; 423-653-2393                                                                                   ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ws94-jb6m.99pd"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-uh54-rh6n-zq47"
       }
     },
     {
@@ -13884,11 +14800,11 @@
       },
       "properties": {
         "name": "Jefferson Heights Neighborhood Association",
-        ":version": "rv-9ubk_axj2-c25i",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-ytxk.9br2-2f9s",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Edward ‘John’ Roland<br><br>Meeting Location: Jefferson Park 1730 Jefferson St Chattanooga TN 37408<br><br>Meeting Time: Quarterly 7pm<br><br> Neighborhood Relations Specialist: Summer Foster ; sfoster@chattanooga.gov | 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-j82w_z9x7~9d9d"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-juzu~7dfu_r7dq"
       }
     },
     {
@@ -13988,11 +14904,11 @@
       },
       "properties": {
         "name": "Heritage Landing Condominium Association",
-        ":version": "rv-db97~urbq-ayxj",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-4i2m~kfx5_axz2",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Bob Todd<br>Email: tnbobkat@aol.com<br><br>Meeting Location: Heritage Landing Clubhouse<br><br>Meeting Time: Every other month normally at 10am <br><br>Neighborhood Relation Specialist: Summer Foster ; sfoster@chattanooga.gov | 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-8bje_9bms~uj6z"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-sryz.3kvu~i9xz"
       }
     },
     {
@@ -14032,11 +14948,11 @@
       },
       "properties": {
         "name": "King Oak Neighborhood Association",
-        ":version": "rv-zmn6.fjer_ba92",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-nmp6-cpr8_smrz",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Barbara Starr<br><br>Contact Information: starr.barbara@yahoo.com<br><br>Meeting Location: 3707 Sumter Ave<br><br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Marcie Keith  at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-hdfi_q7zm~s58x"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-7iua.3a5y~wbff"
       }
     },
     {
@@ -14076,11 +14992,11 @@
       },
       "properties": {
         "name": "Fort Wood Neighborhood Association",
-        ":version": "rv-qvae_fkcr_agvq",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-vqh6_iiiw_3syi",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Jonathan Pinney<br><br>Contact Information: jpinney1@gmail.com<br><br>Meeting Location: Contact President <br><br>Day/Time: 2nd Wednesday, Monthly 6PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-p5wh_5esi_wyxx"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-fqz4-pzb9.g78x"
       }
     },
     {
@@ -14132,11 +15048,11 @@
       },
       "properties": {
         "name": "Lake Hills Neighborhood Association",
-        ":version": "rv-ztzr-fhi2.4tyx",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-xyag-pwmz~6ikj",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Christy Rashed<br><br>Contact Information: ncbefinsec2023@yahoo.com<br><br>Meeting Location: Northminster Presbyterian, 4791 Hal Dr.<br><br>Day/Time: 2nd Tuesday, Every other Month, 7PM<br><br>Facebook Page: Search Facebook for \"Lake Hills Neighborhood\" to Join<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-75z6~j8vc.myue"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-r9qt~tfqc.stzc"
       }
     },
     {
@@ -14208,11 +15124,11 @@
       },
       "properties": {
         "name": "North Tower Forest Community Association",
-        ":version": "rv-7mtt.fuzz-b48v",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-ga86_v84b.ng8r",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Janice Schreane-Smith<br><br>Contact Information: jschreanesmith@epbfi.com<br><br>Meeting Location: Chris L. Ramsey Community Center, 1010 N. Moore Rd.<br><br>Date/Time: 4th Monday, Monthly 5PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-pw2c_bq4n.8ige"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-tsaz~2r2g~x3x8"
       }
     },
     {
@@ -14276,11 +15192,11 @@
       },
       "properties": {
         "name": "Orchard Knob Neighborhood Watch Association",
-        ":version": "rv-anfp_4ath.9m9g",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-ei6z.feaw.hqid",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Linda Carter<br><br>Contact Information: lcox502@gmail.com<br><br>Meeting Location: Parkridge Diagnostic Hospital<br><br>Date/Time: 3rd Thursday, Monthly 6PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ffw5-7tkd_zhmd"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-jhfb~mtbc.ppq9"
       }
     },
     {
@@ -14320,11 +15236,11 @@
       },
       "properties": {
         "name": "Oak Grove Neighborhood Association",
-        ":version": "rv-br9i-fktf.swvi",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-66uv_tx5j_e9jm",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Grecia Morales<br><br>Contact Information: OakGroveneighborhood.chatt@gmail.com<br><br>Meeting Location: 1814 S Beech St<br><br>Date/Time: 4th Monday, Monthly 6PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ce7k_qupk.y4j6"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-b5gp_6eki.pnrc"
       }
     },
     {
@@ -14400,11 +15316,11 @@
       },
       "properties": {
         "name": "Forest Plaza Neighborhood Association",
-        ":version": "rv-x28t.69m5-by9a",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-p64x-bmc9-retu",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Kay Thrasher<br>Email: kay@townsend-engineering.com<br><br>Meeting Location: Varies<br><br>Meeting Time: 1th Thursday Monthly, 6:30 or 7PM<br><br>Neighborhood Relations Specialist: Summer Foster ; Sfoster@chattanooga.gov | 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-jd3x-n5i9-2q8u"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-zfif_pvkj-jgkp"
       }
     },
     {
@@ -14978,11 +15894,11 @@
       },
       "properties": {
         "name": "Community Association of Historic St. Elmo",
-        ":version": "rv-3nge~2m6t.pts4",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-mstz.xrfp_nbt4",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Nathan Bird<br>Email: nathanbird126@gmail.com<br><br>Meeting Location: 4501 St. Elmo Ave<br><br>Meeting Time: 1th Monday Monthly, 7PM<br><br>Neighborhood Relations Specialist: Summer Foster; sfoster@chattanooga.gov| 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-tju3.mdei_w678"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-34t8-qs23~af4q"
       }
     },
     {
@@ -15054,11 +15970,11 @@
       },
       "properties": {
         "name": "Clifton Hills Neighborhood Association",
-        ":version": "rv-e82b.fvxg-gggf",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-smes_tt95.5mzd",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Rosonia Burton<br>Email: rosonia.burton247@gmail.com<br><br>Meeting Location: Bridge City Community Church 3300 Brannon Ave <br><br>Meeting Time: 2nd Thursday every other month, 6:30PM<br><br>Neighborhood Relations Specialist: Perrin Lance; pjlance@chattanooga.gov | 423-653-2393",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-v75s_xuwr-kyvb"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-ga99_vy5v_yvum"
       }
     },
     {
@@ -15130,11 +16046,11 @@
       },
       "properties": {
         "name": "Kensington Forest Neighborhood Association",
-        ":version": "rv-xb9z~zbm6.8y53",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-sa5f.qmj3-sqfj",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President - Sandy Cole<br>Email: sandyjcole2001@yahoo.com<br><br>Meeting Location: TBD<br><br>Meeting Time: N/A<br><br>Neighborhood Relations Specialist: Summer Foster; sfoster@chattanooga.gov | 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-jcv2.55ny-wnsk"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-xn23-9pvs.t6fq"
       }
     },
     {
@@ -15202,11 +16118,11 @@
       },
       "properties": {
         "name": "Cherokee Woods",
-        ":version": "rv-vkty.hjid~c6kq",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-cwsg-kq3a_gqfj",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Saundra J. Adams<br><br>Contact Information: saundrabutterfly@yahoo.com<br><br>Meeting Location: Oakwood Baptist Church, 4501 Bonny Oaks Dr.<br><br>Date/Time: TBD<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-igce-y3i6~k6gy"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-m5vc.wja7.jcgz"
       }
     },
     {
@@ -15274,11 +16190,11 @@
       },
       "properties": {
         "name": "Hemphill Neighborhood Association",
-        ":version": "rv-6mti.xv89.zhjc",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-hbuh~zpru.cnvf",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Marti Rutherford<br><br>Contact Information: rutherford@epbfi.com<br><br>Meeting Location: TBD<br><br>Date/Time: TBD<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-cnvd.yjyd_g5mf"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-rk2r-947g-xd5a"
       }
     },
     {
@@ -15352,11 +16268,11 @@
       },
       "properties": {
         "name": "Horse Creek Farms(Phase II) Owners' Association",
-        ":version": "rv-f22f.sw36_caj2",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-5kbv-c5eq.judr",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Patti DePriest<br><br>Contact Information: pwdepriest@gmail.com<br><br>Meeting Location: Mountain Creek Church of Christ, 985 Runyan Drive, Chattanooga, TN 37405<br><br>Date/Time: Board, 2nd Monday, Monthly virtual via Zoom, 10AM; Annual(November), 7PM <br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-wush.68e6.a22q"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-hjvj-5jiw_zvpj"
       }
     },
     {
@@ -15404,11 +16320,11 @@
       },
       "properties": {
         "name": "Horse Creek Farms(Phase I) Owners' Association\n",
-        ":version": "rv-aejy_sva8_u6id",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-ni8x~mvua~iv7y",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Bruce Krebs<br><br>Contact Information: bruce.e.krebs@comcast.net<br><br>Meeting Location: TBD<br><br>Date/Time: TBD<br><br>Neighborhood Relations Specialist: Marcie Keith 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-mrwa_97s5_iv7t"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-7a6e_x9zc.yp89"
       }
     },
     {
@@ -15452,11 +16368,11 @@
       },
       "properties": {
         "name": "Foxwood Heights Neighborhood Association",
-        ":version": "rv-6fz6~etiv_afb7",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-uqa2-2662_36zn",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Gloria McClendon Contact Information: GloriaDM1216@hotmail.com Meeting Location: Eastdale Recreation Center, 1312 Moss Drive Meeting Date(s)/Time: 1st Thursday Monthly, 4:00PM Social/Web/ListServ: Neighborhood Relations Specialist: Karen Clay at 423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-rghp-3ibp~wbbz"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-bi26.4hmq.z494"
       }
     },
     {
@@ -15552,11 +16468,11 @@
       },
       "properties": {
         "name": "Glenwood Neighborhood Association",
-        ":version": "rv-9uad_4bu9~2c46",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-9uhm.rgr8~va66",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Glenwood Neighborhood Association<br>President: Tommy Dillard<br><br>Contact Information: thomasdiller@bellsouth.net<br><br>Meeting Location: Glenwood Community Center<br>Day/Time: 4th Thursday of each month (November & December the 3rd Thursday) | 6-7PM<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-wgyd~nprd_ifsi"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-msnb-73dy.7qyn"
       }
     },
     {
@@ -15672,11 +16588,11 @@
       },
       "properties": {
         "name": "Mahala Acres Neighborhood Association",
-        ":version": "rv-unhq.qkj4~zuaa",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-tkf2~fzuj.9ssn",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Samantha Holloway Contact Information: samantha0515@gmail.com Meeting Location: TBA (call president for details) Meeting Date(s)/Time: TBD Social/Web/ListServ: Neighborhood Relations Specialist: Karen Clay at 423-643-7306             ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-7h6d~xeci~64r9"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-4ctm.5iqb-ut35"
       }
     },
     {
@@ -15732,11 +16648,11 @@
       },
       "properties": {
         "name": "Meadowbrook Heights Neighborhood Watch",
-        ":version": "rv-v53a~ag5h.qbkp",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-35yu_55iq-28m5",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Meadowbrook Heights Neighborhood Watch<br>President: Renee Jackson<br><br>Contact Information: reaneejackson1@gmail.com<br><br>Meeting Location: TD<br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ywcz_uhj2_gpig"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-9erp-fqds-z4ez"
       }
     },
     {
@@ -15784,11 +16700,11 @@
       },
       "properties": {
         "name": "Hickory Creek Townhome Association",
-        ":version": "rv-qcdu-vnbs_axn5",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-i4fi_m54v-uab2",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Hickory Creek Townhome Association<br>President: Cinny Harrison<br><br>Contact Information: charrison02@epbfi.com<br><br>Meeting Location: TBD <br>Day/Time: TBD (Annually @ 7:00pm)<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-8yyw.whrq~4jnu"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-v6tc_ii8u~azt7"
       }
     },
     {
@@ -15828,11 +16744,11 @@
       },
       "properties": {
         "name": "Willow Trace Homeowners Association",
-        ":version": "rv-piiz~hgr2_9y5h",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-ycx9-g7x8.yzyt",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Willow Trace Homeowners Association<br>President: Dee Anna Brown (Acting)<br><br>Contact Information: ddspangler@hotmail.com<br><br>Meeting Location: Hickory Valley Baptist Church<br>Day/Time: Annual Meeting - 3rd Thursday in March<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-73ne~m843-hdhn"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-cnf9-pbnz_iesg"
       }
     },
     {
@@ -15884,11 +16800,11 @@
       },
       "properties": {
         "name": "Lake Chickamauga Community Association",
-        ":version": "rv-fnx6_h4fv.ceyu",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-3sss~6ab6_bvv6",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Lake Chickamauga Community Association<br>President: Nikki Ownby<br><br>Contact Information: ms.n.ownby@gmail.com <br><br>Meeting Location: TD<br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-7vcp_kn6h~e9gn"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-6dt5~3gb8~7q24"
       }
     },
     {
@@ -16008,11 +16924,11 @@
       },
       "properties": {
         "name": "Murray Hills Neighborhood Association",
-        ":version": "rv-9xse-hx4v_49n7",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-65xx-42cq~wwpj",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Murray Hills Neighborhood Association<br>Contacts: Rachel Campbell<br><br>Contact Information:  <br>rachelcampbell4tn@gmail.com; 4232270759<br><br>Meeting Location: St. Thaddeus Episcopal Church, 4300 Locksley Lane, Chattanooga, TN 37416<br>Day/Time: 3rd Saturday Monthly at 10AM<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-bc7z.yq58_hp9y"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-csw8.kxca.e5sn"
       }
     },
     {
@@ -16092,11 +17008,11 @@
       },
       "properties": {
         "name": "Brainerd Hills Neighborhood Association",
-        ":version": "rv-9ud4~78q8~eq56",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-88qa.jt4v_rjyf",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Brainerd Hills Neighborhood Association<br>President: Brad Gruner<br><br>Contact Information: bgruner31@gmail.com<br><br>Meeting Location: TD<br>Day/Time: TBD<br><br>Neighborhood Relations Specialist:  Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-d9zw-4kt6~jgu9"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-h5zx-8x9c-k382"
       }
     },
     {
@@ -16136,11 +17052,11 @@
       },
       "properties": {
         "name": "Hickory Manor Homeowners Association",
-        ":version": "rv-efc7~afde~r79g",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-w56s_mq5n~c7wu",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Hickory Manor Homeowners Association<br>President: Gerai Kocher<br><br>Contact Information: tkocher@mindspring.com <br><br>Meeting Location: TBD<br>Day/Time: TBD (quarterly @ 2:00 pm<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-66en~5ubx-ptjy"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-2gj7.jtuh~x9wk"
       }
     },
     {
@@ -16176,11 +17092,11 @@
       },
       "properties": {
         "name": "The Arbors Homeowners Association",
-        ":version": "rv-64yq_wvf9-5r2n",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-kuvq-t23g-khq7",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "The Arbors Homeowners' Association<br>President: Gary Peltier<br><br>Contact Information: thearborshoa37421@gmail.com<br><br>Meeting Location: Tyner Community center @ 6:00pm<br>Day/Time: Annual Meeting / April<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-pqb2_ygfb-ciha"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-pdgc~49ut-h3dm"
       }
     },
     {
@@ -16228,11 +17144,11 @@
       },
       "properties": {
         "name": "Vaden Village Homeowners Association",
-        ":version": "rv-fz4e_e56v-9yxf",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-qdct~scsi_9ys3",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Vaden Village Homeowners Association<br>President: Marty Massengale <br><br>Contact Information: Mmmassengale@gmail.com<br><br>Meeting Location: TD<br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-iymp~grbz.vr5h"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-7suh.rzui-fqs3"
       }
     },
     {
@@ -16428,11 +17344,11 @@
       },
       "properties": {
         "name": "Bay Pointe Estates Marina Cove",
-        ":version": "rv-nbd4-gd7v.s9eb",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-rgua_ch6t~iva8",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Bay Pointe Estates Marina Cove<br>President: Milena Garrison-O’Hara<br><br>Contact Information: millasan@yahoo.com<br><br>Meeting Location: 2190 Bay Pointe Drive, Hixson TN 37343<br>Day/Time: TBD 2nd Thursday of every month @ 7:00pm<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-3z2f_ms6n-nrup"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-9z9y_sy3a.e74t"
       }
     },
     {
@@ -16488,11 +17404,11 @@
       },
       "properties": {
         "name": "Heritage Ridge Homeowners Association",
-        ":version": "rv-we73~h4m3~ayke",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-b5y6~64q5~rgej",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Heritage Ridge Homeowners Association<br>President: Shannon York<br><br>Contact Information: heritageridge37343@gmail.com<br><br>Meeting Location: Via Zoom<br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ga63~73cm_9bxx"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-zgw6~jgs6_qayx"
       }
     },
     {
@@ -16548,11 +17464,11 @@
       },
       "properties": {
         "name": "Bellflower Neighborhood Watch ",
-        ":version": "rv-pb79.reg8_7pms",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-6ba7_yed4-mpwm",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Bellflower Neighborhood Watch<br>President: Rob Simmons<br><br>Contact Information: biofish@gmail.com<br><br>Meeting Location: TD<br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-9iad_364x_mruj"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-ud7n.nyyu.28c7"
       }
     },
     {
@@ -16588,11 +17504,11 @@
       },
       "properties": {
         "name": "Cherry St. HOA",
-        ":version": "rv-yqkw_hi98~dhpf",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-nqmz_22eb.q5t7",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Representative - Dr. June Scobee Rodgers<br>Email: bugchatt@aol.com<br><br>Meeting Location: N/A<br><br>Meeting Time: N/A<br><br>Neighborhood Relations Specialist: Perrin Lance; pjlance@chattanooga.gov | 423-653-2393",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-cdjd.6fqq~qv5e"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-8iit.n36z~tin4"
       }
     },
     {
@@ -16632,11 +17548,11 @@
       },
       "properties": {
         "name": "Solomon Seal Trail Homeowners Association",
-        ":version": "rv-spfx_a3um_6q87",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-qd9y-7m8w~mc4g",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Secretary: Renee MacCoon<br><br>Contact: Please reach out to NRS to contact the HOA.<br><br>Date/Time: Annually per By Laws and periodically as requested by the President<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-qqkm~xgns_38q9"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-krwg-jjk6-zp8t"
       }
     },
     {
@@ -16732,11 +17648,11 @@
       },
       "properties": {
         "name": "Lookout Valley Neighborhood Association",
-        ":version": "rv-xrxm-d2gk.a23e",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-cmbh-deq3_3rim",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Sherrie Ford<br><br>Contact Information: Ford.lvna@gmail.com<br><br>Meeting Location: John A. Patten Community Center, 3202 Kellys Ferry Road <br><br>Date/Time: 1st Thursday, Monthly, 6:30PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-26ip.miw3~93ak"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-8q4t.jcxt-beuy"
       }
     },
     {
@@ -16780,11 +17696,11 @@
       },
       "properties": {
         "name": "South Stringers Ridge",
-        ":version": "rv-jkzz~pzii-zy46",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-vxsc.wte9.9wd4",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Acting President: Ralph Cousins<br><br>Contact Information: ralphcousins@hotmail.com<br><br>Meeting Location: TBD<br><br>Date/Time: TBA<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-mupp_uw96-5bzj"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-szzg.wbhs-66h5"
       }
     },
     {
@@ -16828,11 +17744,11 @@
       },
       "properties": {
         "name": "10 Ward Neighborhood Association",
-        ":version": "rv-as2r_yzpv~b89q",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-svk7_kr3h-ivye",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Chris Henegar<br><br>Contact Information: chris@henegarhomes.com<br><br>Meeting Location: TBD<br><br>Date/Time: TBA<br><br>Neighborhood Relations Specialist: Andreana Moore at 423-643-7311 or azmoore@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-rwgy~jidz-skuh"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-cq86~4hvh_phgn"
       }
     },
     {
@@ -16952,11 +17868,11 @@
       },
       "properties": {
         "name": "Glass Farm Community",
-        ":version": "rv-5tqc~mdsr-jgvb",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-8ayn_63nd.unpr",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Glass Farms Neighborhood Association<br>President: Dolores Crumity<br><br>Contact Information: marcelcrumity@gmail.com; <br><br><br>Meeting Location: Rise, 2901 Taylor Street<br><br>Day/Time: 3rd Thursday, Monthly, 6PM<br><br>Neighborhood Relations Specialist: Karen D Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-aiz3.2fif-6avz"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-5vnn_qkjz_niim"
       }
     },
     {
@@ -17028,11 +17944,11 @@
       },
       "properties": {
         "name": "Colonial Shores Neighborhood Association",
-        ":version": "rv-jfkn.rrvr~gsi9",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-p96x~vzwc_rqty",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Colonial Shores Neighborhood Association<br>President: David Rappoport<br><br>Contact Information: colonialshoresneighborhood@gmail.com<br><br>Meeting Location: TD<br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Karen D. Clay at 423-643-7306 or kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-393u.nwwv_upce"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-pzp6~y4bs.y9e9"
       }
     },
     {
@@ -17096,11 +18012,11 @@
       },
       "properties": {
         "name": "Drake Forest Homeowners Association",
-        ":version": "rv-wrhv~pfyt_t74q",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-ga66_8xaa~ep9g",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Drake Forest Homeowners Association<br>Meeting Location: TBD \t<br>Meeting Date/Time: Annual January Member Meeting // Board meets at called bi-monthly meeting<br><br>President: Alan Fulk<br>Contact: george0984@aol.com                                 NRS: Summer Foster; Sfoster@chattanooga.gov l 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-hr8s~py5f-j3fk"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-c4v2~pzqh_4bfk"
       }
     },
     {
@@ -17160,11 +18076,11 @@
       },
       "properties": {
         "name": "Molly's Meadow Homeowners Association",
-        ":version": "rv-xvyv.c3gv~pfwe",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-p5a9_pi9d.risd",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Molly's Meadow Homeowners Association<br><br>Meeting Location: TBD<br>Meeting Date/Time: TBD<br><br>President: Michael Whitfield<br>Contact: Contact President at michael4531@comcast.net or 4235983531",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-zw75~3fs7.nppb"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-uhvp-bpwh-nzxa"
       }
     },
     {
@@ -17204,11 +18120,11 @@
       },
       "properties": {
         "name": "Columbine Trail HOA",
-        ":version": "rv-pk4g-gidc_3r3g",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-nb5f-3jiz_cn7e",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Linda McReynolds<br><br> Contact Information: bmcreynolds@epbfi.com <br><br>Meeting Location: 2417 columbine trail Meeting <br>Date(s)/Time: Quarterly, TBD<br> Social/Web/ListServ: Neighborhood Relations Specialist: Perrin Lance at 423-643-5773    ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-s59h.k7ur_nq63"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-wybi~7nvc_k5qp"
       }
     },
     {
@@ -17252,11 +18168,11 @@
       },
       "properties": {
         "name": "Queens Lace Trail HOA",
-        ":version": "rv-e6jd~bt9u_uitf",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-pcih-knuf.di8k",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Queens Lace Trail Homeowners Association<br><br>Meeting Location: 2404 QUEENS LACE TRAIL CHATTANOOGA, TN 37421<br>Meeting Time/Date: Semi-annually<br><br>President: NINA BISSINGER<br>Contact: ndbissinger@yahoo.com",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-uimh-kcvr_zqw3"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-rubq~5wvh~pcbn"
       }
     },
     {
@@ -17308,11 +18224,11 @@
       },
       "properties": {
         "name": "Village of Ashwood HOA",
-        ":version": "rv-s6y9_xwfk.kr5h",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-uqu9.r6pn.4b7y",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Meeting Time: Quarterly, varies<br>Meeting Place: VOA Clubhouse<br><br>President: Perry Bowers<br>Contact: Debby Sopko, Secretary - dlsopko@yahoo.com",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-yy7j_qfns~2p9v"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-khtc_5zdj~v9ns"
       }
     },
     {
@@ -17388,11 +18304,11 @@
       },
       "properties": {
         "name": "Ramsgate HOA",
-        ":version": "rv-6hm7.yhpm_e4n8",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-e8c7.mvww_tppp",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Meeting Location: 1735 Ramsgate Parkway<br>Meeting Time: 1st Thursday Monthly at 6PM<br><br>President: Glenn McFeeters<br>Contact: Board.ramsgate@gmail.com",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-bsu9-pfhg.7xm9"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-f84g-rh87~ay3b"
       }
     },
     {
@@ -17452,11 +18368,11 @@
       },
       "properties": {
         "name": "Dalewood Hills Neighborhood Association",
-        ":version": "rv-c9jp_m3fi_ua4n",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-g4kc-zqjm.bsdd",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Meeting Place: TBA<br>Meeting Time: First Thursday Quarterly @ 6PM<br><br>President: Debbie D. Hall<br>Contact: 423 488-6468 | dalewoodhillsna@epbfi.com",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-r48c.7kde~k9b9"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-rnr3_qq4g~d7gq"
       }
     },
     {
@@ -17508,11 +18424,11 @@
       },
       "properties": {
         "name": "Blackberry Cove HOA",
-        ":version": "rv-hhrx~ub4b-wirn",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-4f2s.hz2g.9sxw",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Meeting Place: Near 8601 Masons Gate Ln, Chattanooga TN, 37421<br><br>Meeting Time: Quarterly, 6PM<br><br>President: Humberto Campus",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ab4q~tdb2_uzug"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-mpem.e6ti.qxqb"
       }
     },
     {
@@ -17704,11 +18620,11 @@
       },
       "properties": {
         "name": "North Chattanooga Neighborhood Association",
-        ":version": "rv-9iwa.dhsi~4gff",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-ptav.vwqs-svf5",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Meeting Place: Francis B. Wyatt Community Center, 406 Colville St, Chattanooga, TN 37405<br><br>Meeting Time: First Thursday of February, April, June, September and November at 7PM - 8:30PM<br><br>President: Alison Poole<br>Contact: NorthChattanoogaNeighbors@gmail.com<br><br>NRS: Summer Foster; sfoster@chattanooga.gov | 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-e9vc.6dk6-baeq"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-mt35~pa7j.unii"
       }
     },
     {
@@ -17820,11 +18736,11 @@
       },
       "properties": {
         "name": "Fairfax Heights-Bagwell-Lupton City Neighborhood Association",
-        ":version": "rv-k9p3~xxnj_95cm",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-zyj9-9wri.kkuh",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Mark Mullins<br> Contact Info: mullim87@gmail.com<br><br> Meeting Location: Brooks Memorial UMC, 1543 Mercer St, Lupton City TN 37351 <br><br>Meeting Date & Time: 2nd Monday of odd numbered months at 7PM<br><br> Social/Web: https://www.facebook.com/LuptonCityTN/<br><br> Neighborhood Relations Specialist: Summer Foster; sfoster@chattanoog.gov| 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-igqi-7hta~mgt3"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-t757~nkbw_md6s"
       }
     },
     {
@@ -17868,11 +18784,11 @@
       },
       "properties": {
         "name": "Southside Neighborhood Association",
-        ":version": "rv-7fn6.6nrx_u5wt",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-2z7s_jk7w_i39q",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Jenny Liang<br>Contact: jenny.j.liang27@gmail.com<br><br>Meeting Location: TBD<br><br>Meeting Time: TBD<br><br>Neighborhood Relations Specialist: Summer Foster ; sfoster@chattanooga.gov | 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-9u7t_97nf_hci5"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-2ic6-y8vj~i5j5"
       }
     },
     {
@@ -17912,11 +18828,11 @@
       },
       "properties": {
         "name": "Bushtown Neighborhood Association",
-        ":version": "rv-cgt6.apme.drsc",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-vkxn-y9sb~23cf",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Mary Morris<br><br>Contact Information: mmorris1951@epbfi.com<br><br>Meeting Location: Carver Community Center, 600 N. Orchard Knob Ave Chattanooga, TN 37404 <br><br>Day/Time: 1st Thursdays Monthly, 6PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-85vn.et2j-z6qg"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-37cs-pww6.e4f3"
       }
     },
     {
@@ -18004,11 +18920,11 @@
       },
       "properties": {
         "name": "Avondale Neighborhood Association",
-        ":version": "rv-uvhc-rx8r-yju5",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-kbti.74v8~fybm",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Ken Smith<br><br>Contact Information: kensmithok@gmail.com, avondaleneighborhoodchatt@gmail.com<br><br>Meeting Location: Avondale Community Center, 1305 Dodson Ave<br><br>Day/Time: 3rd Monday, Monthly, 6PM<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-myv7-cmc7-mzrh"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-3d9v_2jck-uvtx"
       }
     },
     {
@@ -18108,927 +19024,11 @@
       },
       "properties": {
         "name": "Belleau Woods HOA",
-        ":version": "rv-vvi9-2qdz.3ejt",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-r4wk.b7c8-3msi",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Meeting Time: 2nd Wednesdays Monthly at 7PM<br>Meeting Location: Zoom<br><br>President: Tom Richards<br>Contact: board@belleauwoodshoa.com<br><br>NRS: Perrin Lance; pjlance@chattanooga.gov | 423-567-5389",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-5zsi.p8f9_cz32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -85.2898923,
-                35.0819833
-              ],
-              [
-                -85.2896831,
-                35.0794723
-              ],
-              [
-                -85.2895705,
-                35.0787787
-              ],
-              [
-                -85.2892754,
-                35.0782958
-              ],
-              [
-                -85.288916,
-                35.0778831
-              ],
-              [
-                -85.288511,
-                35.0773497
-              ],
-              [
-                -85.2882669,
-                35.0767987
-              ],
-              [
-                -85.287886,
-                35.0768383
-              ],
-              [
-                -85.2876125,
-                35.0769305
-              ],
-              [
-                -85.2873389,
-                35.0771895
-              ],
-              [
-                -85.2871082,
-                35.077128
-              ],
-              [
-                -85.2867595,
-                35.0771104
-              ],
-              [
-                -85.2868346,
-                35.0776373
-              ],
-              [
-                -85.2868131,
-                35.0785592
-              ],
-              [
-                -85.2865664,
-                35.0798674
-              ],
-              [
-                -85.286266,
-                35.080719
-              ],
-              [
-                -85.2857188,
-                35.0809824
-              ],
-              [
-                -85.2854506,
-                35.081079
-              ],
-              [
-                -85.2853111,
-                35.0812634
-              ],
-              [
-                -85.2854613,
-                35.0816848
-              ],
-              [
-                -85.2860514,
-                35.0822204
-              ],
-              [
-                -85.2876822,
-                35.0827647
-              ],
-              [
-                -85.288519,
-                35.0832476
-              ],
-              [
-                -85.2898923,
-                35.0819833
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "North Riverview Neighborhood Association",
-        ":version": "rv-yu7f.wegg~ma64",
-        ":created_at": "2025-01-08T18:30:03.738Z",
-        "description": "President (interim) - Lea Anne Wiles<br>Contact: lawiles@aol.com<br><br>Meeting Time: Third Thursday Quarterly, Jan/Apr/Jul/Oct | 530-7.<br><br>Meeting Place: Las Margaritas Mexican Restaurant, 1101 Hixson Pike G, Chattanooga, TN 37405<br><br>Neighborhood Relations Specialist: Summer Foster; sfoster@chattanooga.gov | 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-av2c-jwes~54ps"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -85.3203981,
-                35.1145319
-              ],
-              [
-                -85.3204089,
-                35.1142774
-              ],
-              [
-                -85.3206127,
-                35.1139
-              ],
-              [
-                -85.3206127,
-                35.1133998
-              ],
-              [
-                -85.3203552,
-                35.1130926
-              ],
-              [
-                -85.3196203,
-                35.1124431
-              ],
-              [
-                -85.3194111,
-                35.1114426
-              ],
-              [
-                -85.3197115,
-                35.1103806
-              ],
-              [
-                -85.3197973,
-                35.11017
-              ],
-              [
-                -85.3193467,
-                35.1101524
-              ],
-              [
-                -85.3152214,
-                35.1148742
-              ],
-              [
-                -85.3159028,
-                35.1151989
-              ],
-              [
-                -85.316171,
-                35.1152076
-              ],
-              [
-                -85.316407,
-                35.1148478
-              ],
-              [
-                -85.3171956,
-                35.114115
-              ],
-              [
-                -85.3173726,
-                35.1140843
-              ],
-              [
-                -85.3183167,
-                35.1146548
-              ],
-              [
-                -85.3194647,
-                35.114725
-              ],
-              [
-                -85.3203981,
-                35.1145319
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Oxford Homeowners Association",
-        ":version": "rv-ztj9~yi2r_x5fw",
-        ":created_at": "2025-01-08T18:30:03.738Z",
-        "description": "President: Ralph Noble<br>Contact: noble@catt.com<br><br>Meeting Time: Monthly, date caries at 5:30 PM<br>Meeting Location: 801 Wellstone Dr, Chattanooga, TN 37405  Neighborhood Relations Specialist: Marcie Keith 423.643.7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-44sf-3w5e-uunh"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -85.1447175,
-                35.0065216
-              ],
-              [
-                -85.1449643,
-                35.0061218
-              ],
-              [
-                -85.1443957,
-                35.0059021
-              ],
-              [
-                -85.1437144,
-                35.0074707
-              ],
-              [
-                -85.143988,
-                35.0075059
-              ],
-              [
-                -85.1445083,
-                35.0075234
-              ],
-              [
-                -85.1448248,
-                35.0073169
-              ],
-              [
-                -85.145195,
-                35.0066886
-              ],
-              [
-                -85.1447175,
-                35.0065216
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "The Cove at Kinsey",
-        ":version": "rv-qd4u-8qxz~tb68",
-        ":created_at": "2025-01-08T18:30:03.738Z",
-        "description": "President: Becky Murphy<br>Contact: 423-596-2724<br><br>Meeting Date/Time: TBD<br>Meeting Location: TBD<br><br>NRS: Perrin Lance",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-yypz_yzc6~bmuu"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -85.2805299,
-                35.1164674
-              ],
-              [
-                -85.2817584,
-                35.1160681
-              ],
-              [
-                -85.2833838,
-                35.1140013
-              ],
-              [
-                -85.2842689,
-                35.1123689
-              ],
-              [
-                -85.2844782,
-                35.1109296
-              ],
-              [
-                -85.2837647,
-                35.1104732
-              ],
-              [
-                -85.2835233,
-                35.1095955
-              ],
-              [
-                -85.2823109,
-                35.1094726
-              ],
-              [
-                -85.2812883,
-                35.108792
-              ],
-              [
-                -85.2791458,
-                35.1072257
-              ],
-              [
-                -85.2769894,
-                35.1056897
-              ],
-              [
-                -85.2761981,
-                35.1052597
-              ],
-              [
-                -85.275321,
-                35.1049349
-              ],
-              [
-                -85.2733845,
-                35.1043468
-              ],
-              [
-                -85.2722902,
-                35.1065147
-              ],
-              [
-                -85.2710564,
-                35.1092532
-              ],
-              [
-                -85.2701123,
-                35.1109998
-              ],
-              [
-                -85.2711502,
-                35.1114518
-              ],
-              [
-                -85.2719951,
-                35.1120266
-              ],
-              [
-                -85.2746291,
-                35.114326
-              ],
-              [
-                -85.2805299,
-                35.1164674
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Manchester Park Neighborhood Association",
-        ":version": "rv-k8sp~xcya~bed9",
-        ":created_at": "2025-01-08T18:30:03.738Z",
-        "description": "President: Angela Tuttle<br>Contact: angelabt@yahoo.com<br><br>Meeting Date & Time:  Every other month on second Saturday at 10AM - July, Sept, Nov, Jan, Mar, May<br><br>Meeting Location: Manchester Park Church of Christ l 835 Mauldeth Rd, Chattanooga, TN 37415<br><br>NRS: Summer Foster ; sfoster@chattanooga.gov | 423-643-7351<br><br>FB: https://www.facebook.com/profile.php?id=61557586712637",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-p5wy-r3nb-8u2k"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -85.3209303,
-                35.0228763
-              ],
-              [
-                -85.3214721,
-                35.0227445
-              ],
-              [
-                -85.3215848,
-                35.0226215
-              ],
-              [
-                -85.3223465,
-                35.0212113
-              ],
-              [
-                -85.3223787,
-                35.0210971
-              ],
-              [
-                -85.3220568,
-                35.0207237
-              ],
-              [
-                -85.3218208,
-                35.0206182
-              ],
-              [
-                -85.3217135,
-                35.0206885
-              ],
-              [
-                -85.3211475,
-                35.0217626
-              ],
-              [
-                -85.3210242,
-                35.0219384
-              ],
-              [
-                -85.3201739,
-                35.0223579
-              ],
-              [
-                -85.3205762,
-                35.0228148
-              ],
-              [
-                -85.3207801,
-                35.0229026
-              ],
-              [
-                -85.3209303,
-                35.0228763
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "100 South Broad",
-        ":version": "rv-mwcv_x6a7.7a3c",
-        ":created_at": "2025-01-08T18:30:03.738Z",
-        "description": "President: Joel Wineman<br><br>NRS: Perrin Lance; pjlance@chattanooga.gov | 423-567-5389",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-7gt5~qn6j_3dgi"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -85.1269452,
-                35.0126809
-              ],
-              [
-                -85.1270525,
-                35.0122943
-              ],
-              [
-                -85.1269291,
-                35.0122679
-              ],
-              [
-                -85.1264356,
-                35.0121053
-              ],
-              [
-                -85.1261781,
-                35.0116879
-              ],
-              [
-                -85.1260064,
-                35.0112046
-              ],
-              [
-                -85.1254378,
-                35.0108751
-              ],
-              [
-                -85.1247995,
-                35.010673
-              ],
-              [
-                -85.1244293,
-                35.0108268
-              ],
-              [
-                -85.1239143,
-                35.0106401
-              ],
-              [
-                -85.1233457,
-                35.0107082
-              ],
-              [
-                -85.1228844,
-                35.0112486
-              ],
-              [
-                -85.1227502,
-                35.0113804
-              ],
-              [
-                -85.1225786,
-                35.0115298
-              ],
-              [
-                -85.1223908,
-                35.0116792
-              ],
-              [
-                -85.1223426,
-                35.0118725
-              ],
-              [
-                -85.1224016,
-                35.0120043
-              ],
-              [
-                -85.1225518,
-                35.012057
-              ],
-              [
-                -85.1225303,
-                35.0122284
-              ],
-              [
-                -85.122482,
-                35.0125227
-              ],
-              [
-                -85.1225357,
-                35.0126897
-              ],
-              [
-                -85.1227663,
-                35.0127776
-              ],
-              [
-                -85.1230238,
-                35.0128566
-              ],
-              [
-                -85.1232438,
-                35.012883
-              ],
-              [
-                -85.1234852,
-                35.0128479
-              ],
-              [
-                -85.1236837,
-                35.0127424
-              ],
-              [
-                -85.1237427,
-                35.0125315
-              ],
-              [
-                -85.1239841,
-                35.0121888
-              ],
-              [
-                -85.1241718,
-                35.0120526
-              ],
-              [
-                -85.1245902,
-                35.0118813
-              ],
-              [
-                -85.1247351,
-                35.0118637
-              ],
-              [
-                -85.1250784,
-                35.0118988
-              ],
-              [
-                -85.1251696,
-                35.0120438
-              ],
-              [
-                -85.1252662,
-                35.0122196
-              ],
-              [
-                -85.1259957,
-                35.0123733
-              ],
-              [
-                -85.1261406,
-                35.0124876
-              ],
-              [
-                -85.1263176,
-                35.0125315
-              ],
-              [
-                -85.1269452,
-                35.0126809
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Ellington Place HOA",
-        ":version": "rv-cmhv~p6uc~pgve",
-        ":created_at": "2025-01-08T18:30:03.738Z",
-        "description": "President: Mary Iorio<br><br>NRS: Perrin Lance; pjlance@chattanooga.gov | 423-567-5389",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-pvax.49p9~6kr8"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -85.2054908,
-                35.1404431
-              ],
-              [
-                -85.2047934,
-                35.1404168
-              ],
-              [
-                -85.2042784,
-                35.141031
-              ],
-              [
-                -85.2040638,
-                35.1436805
-              ],
-              [
-                -85.2034201,
-                35.1438121
-              ],
-              [
-                -85.2031197,
-                35.1443034
-              ],
-              [
-                -85.2035059,
-                35.1445666
-              ],
-              [
-                -85.2056839,
-                35.1449613
-              ],
-              [
-                -85.2065636,
-                35.1451456
-              ],
-              [
-                -85.2068077,
-                35.145139
-              ],
-              [
-                -85.2071966,
-                35.1451851
-              ],
-              [
-                -85.2072664,
-                35.1450513
-              ],
-              [
-                -85.207312,
-                35.1449251
-              ],
-              [
-                -85.2073147,
-                35.1448034
-              ],
-              [
-                -85.2077116,
-                35.1440051
-              ],
-              [
-                -85.2077975,
-                35.1436454
-              ],
-              [
-                -85.2080764,
-                35.1427154
-              ],
-              [
-                -85.2082266,
-                35.1422768
-              ],
-              [
-                -85.2076151,
-                35.1420925
-              ],
-              [
-                -85.2073254,
-                35.1420048
-              ],
-              [
-                -85.2071966,
-                35.1417328
-              ],
-              [
-                -85.2067675,
-                35.1413117
-              ],
-              [
-                -85.2064778,
-                35.1412942
-              ],
-              [
-                -85.2061238,
-                35.1412766
-              ],
-              [
-                -85.2062525,
-                35.1407678
-              ],
-              [
-                -85.2054908,
-                35.1404431
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Amberbrook Gardens HOA",
-        ":version": "rv-64t8-yr3g-rpf4",
-        ":created_at": "2025-01-08T18:30:03.738Z",
-        "description": "President: Elizabeth Goss<br>Email: elizabeth.m.goss@gmail.com<br><br>Meeting Location: North Hixson Church of God, 5428 Cassandra Smith Road, Hixson, TN 37343<br><br>Meeting Date: (General Meeting: Yearly, usually November) (Board Meetings: Monthly)<br>Meeting Time: 7PM<br><br>NRS: Karen Clay | kclay@chattanooga.gov | 423-355-7003",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-fh8x~vkxd_48up"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -85.1574007,
-                35.0020477
-              ],
-              [
-                -85.1575831,
-                35.0018499
-              ],
-              [
-                -85.1578996,
-                35.0017708
-              ],
-              [
-                -85.1580176,
-                35.0015731
-              ],
-              [
-                -85.1590583,
-                34.9995122
-              ],
-              [
-                -85.1584414,
-                34.9992661
-              ],
-              [
-                -85.158133,
-                34.9998263
-              ],
-              [
-                -85.1577038,
-                34.9996638
-              ],
-              [
-                -85.1567033,
-                35.0014808
-              ],
-              [
-                -85.1569984,
-                35.0017445
-              ],
-              [
-                -85.1572317,
-                35.0019774
-              ],
-              [
-                -85.1574007,
-                35.0020477
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Davidson Place Homeowners Association",
-        ":version": "rv-wq3h~e3ms~akjc",
-        ":created_at": "2025-01-08T18:30:03.738Z",
-        "description": "President: John Thompson<br>Contact: jcretired@epbfi.com<br><br>Meeting Place: Varies<br>Meeting Time: Quarterly, Varies<br><br>NRS: Summer Foster | sfoster@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-8qxy.x62y_nqbc"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -85.1308906,
-                35.0007332
-              ],
-              [
-                -85.131765,
-                34.9997796
-              ],
-              [
-                -85.1329613,
-                34.9988085
-              ],
-              [
-                -85.135504,
-                34.9933682
-              ],
-              [
-                -85.1358473,
-                34.9919267
-              ],
-              [
-                -85.1394951,
-                34.9866177
-              ],
-              [
-                -85.1266634,
-                34.9866881
-              ],
-              [
-                -85.1253331,
-                34.9872155
-              ],
-              [
-                -85.1237881,
-                34.9866529
-              ],
-              [
-                -85.1179945,
-                34.9866177
-              ],
-              [
-                -85.1170075,
-                34.9879186
-              ],
-              [
-                -85.1156771,
-                34.9891492
-              ],
-              [
-                -85.1153767,
-                34.9913994
-              ],
-              [
-                -85.1160634,
-                34.9926299
-              ],
-              [
-                -85.1199257,
-                34.9926299
-              ],
-              [
-                -85.1214707,
-                34.9938604
-              ],
-              [
-                -85.1239169,
-                34.9940362
-              ],
-              [
-                -85.1252472,
-                34.9956885
-              ],
-              [
-                -85.1277363,
-                34.9975166
-              ],
-              [
-                -85.1303863,
-                35.0001883
-              ],
-              [
-                -85.1308906,
-                35.0007332
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Hurricane Creek Homeowners Association",
-        ":version": "rv-39ua~29cs-6rde",
-        ":created_at": "2025-01-08T18:30:03.738Z",
-        "description": "President: Nick Von Werssowetz<br>Contact: Volksnick@gmail.com; 423 240 4388<br><br>Meeting Date/Time: First Thursday of Each Month, 6PM<br>Meeting Location: Christ United Methodist Church, Building A, 8645 East Brainerd Road, Chattanooga, TN 37421 <br><br>NRS: Summer Foster | sfoster@chattanooga.gov; 423-643-7351",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ati8-c9a3~yhrf"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-wspy.z9kr-vm7f"
       }
     },
     {
@@ -19848,11 +19848,11 @@
       },
       "properties": {
         "name": "One Northshore Condominiums",
-        ":version": "rv-ei3y-3zph.gcqi",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-p5fd.yna8.86re",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Buck Tasker<br><br>Email: buck.tasker@outlook.com<br><br>Meeting Location: 200 Manufacturers Rd, Clubroom<br><br>Day/Time: Monthly TBD, 4:00PM<br><br>Neighborhood Relations Specialist: Marcie Keith: 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-qept.qm3u-ypcn"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-g6zi~igr8.62ep"
       }
     },
     {
@@ -20008,11 +20008,11 @@
       },
       "properties": {
         "name": "Dallas Heights Neighborhood Association",
-        ":version": "rv-h4k3_bx6f_uag8",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-6z7t.n4pa-hnu8",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Bailey Smith <br><br>Contact Information: baileysmithhomes@gmail.com; DallasHeightsNeighbors@gmail.com<br><br>Meeting Location: TBD<br><br>Day/Time: TBD<br><br>Neighborhood Relations Specialist: Summer Foster | sfoster@chattanooga.gov ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-iiqi.fest-nctf"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-h9ry.kzxv.d4gq"
       }
     },
     {
@@ -20056,11 +20056,11 @@
       },
       "properties": {
         "name": "Bent Creek Golf Villas HOA",
-        ":version": "rv-ub8y~hhbs~abyu",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-e8jv~aja5_2pcc",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Charlie Hunt<br><br>Contact Information: hunt.charlie@epbfi.com<br><br>Meeting Location: Creeks Bend Golf Club, 5900 Hixson Pike, Hixson, TN 37343<br><br>Meeting Time: Annual Meeting in December, 2nd Sunday of the month (Dec 8th, 2024) at 3PM; Board meets every other month or when necessary anywhere from 3-6PM.<br><br>NRS: Karen Clay | 423-643-7306 | kclay@chattanooga.gov.",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-gpk9-6z4w.279m"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-kyzt_5nfc.v4fc"
       }
     },
     {
@@ -20376,11 +20376,11 @@
       },
       "properties": {
         "name": "Missionary Ridge Neighborhood Association",
-        ":version": "rv-ncuu-cm9j_3bm2",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-ri2t-gwwg_2pb7",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Ashley Raymond<br><br>Contact Info: ashlraymond@gmail.com | 423-322-9994<br><br>Meeting Location: Old Missionary Ridge Fire Hall, 36 Sheridan Avenue<br><br>Meeting Date/Time: Security Meeting 1st Thursday at 6PM | Board Meeting 2nd Thursday at 6PM<br><br>NRS Information: Karen Clay | kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ji3d.43qa~fere"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-p37i-8uj8~bkkx"
       }
     },
     {
@@ -20468,11 +20468,11 @@
       },
       "properties": {
         "name": "Amber Brook Townhomes Association",
-        ":version": "rv-54px_5bza.qcyd",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-fw6w.r42c~qwhw",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "For more information, please contact the Neighborhood Relations Specialist for this area: Karen Clay at 423-355-7003 or by emailing her at kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-ve43~cwcn_pw5x"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-wiuj_eqk8-3v5h"
       }
     },
     {
@@ -20596,11 +20596,11 @@
       },
       "properties": {
         "name": "Friends of Mountain Creek",
-        ":version": "rv-kam2_xnsz_de4z",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-83wd-ffsz.wehp",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Brian Tucker<br>Contact: steve@huntcommre.com<br><br>Meeting Date: TBD<br>Meeting Time: <br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 or mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-uwex~4cp3.6tsj"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-dzdd~vb2e~zrda"
       }
     },
     {
@@ -20656,11 +20656,11 @@
       },
       "properties": {
         "name": "Pink Heather Trail HOA",
-        ":version": "rv-r7iz.i5di-vzq8",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-jcaa-3ubp-d2uw",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Harry Britton<br>Contact: tnfutball51@gmail.com<br><br>Meeting Time: Annual Meeting - Saturdays usually, this year on Oct 26th at 4PM | Board Meetings - Sunday afternoons at 3PM prior to each membership meeting and as needed<br><br>Meeting Location: Annual Meeting - 4561 Pink Heather Trail | Board Meetings at President's house<br><br>NRS: Marcie Keith | mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-h6nd~cn25~sqkh"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-3sb7.2n9y.rntc"
       }
     },
     {
@@ -20716,11 +20716,11 @@
       },
       "properties": {
         "name": "Fire Pink Trail HOA",
-        ":version": "rv-b795_y7hu-gw3f",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-xuxa-z8w2-ttg9",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Contact: Nancy Ruby<br>Email: nruby37377@aol.com<br><br>Meeting Location: Annual Meeting and Board Meetings held at 4660 Fire Pink Trail<br><br>Meeting Time: TBD<br><br>NRS: Marcie Keith | mkeith@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-v7yk~npha.jq8d"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-qn6k-th8v_p3nv"
       }
     },
     {
@@ -20780,11 +20780,11 @@
       },
       "properties": {
         "name": "Moss Landing Homeowners Association",
-        ":version": "rv-kqv2.dkx7.eq8c",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-px6m_rjfy~mxgt",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "Vice-President: Aaron Fowles<br>Contact: afowles@gmail.com<br><br>Meeting Location: Board Meetings Virtual | Annual Meeting - Doubletree Hotel in Hamilton Place<br><br>Meeting Time: Annual Meeting - Dec 10th (in general, they meet in November) | Board Meetings - as needed, will be quarterly. Annual Meeting - 6PM | Board Meetings - 6PM<br><br>NRS: Karen Clay | kclay@chattanooga.gov",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-bd9d.xa46_xtb5"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-8jnz-pjrz-mjcs"
       }
     },
     {
@@ -20852,11 +20852,11 @@
       },
       "properties": {
         "name": "Hill City Neighborhood Association",
-        ":version": "rv-jfqk.2p7g-uauz",
-        ":created_at": "2025-01-08T18:30:03.738Z",
+        ":version": "rv-5raj_fd3y_zrsg",
+        ":created_at": "2025-01-08T18:45:03.821Z",
         "description": "President: Mary Westbrook<br><br>Contact Information: marywbrook@mac.com<br><br>Meeting Location: North Chattanooga Community Center, 406 May St, Chattanooga, TN 37405<br><br>Day/Time: 1st Monday Monthly, 6:30PM<br><br>Facebook Group: https://www.facebook.com/groups/562799224234407<br><br>Neighborhood Relations Specialist: Marcie Keith at 423-643-7311 mkeith@chattanooga.gov  ",
-        ":updated_at": "2025-01-08T18:30:03.738Z",
-        ":id": "row-vwzk-es8a_vp4y"
+        ":updated_at": "2025-01-08T18:45:03.821Z",
+        ":id": "row-t7u3~qfhn_amab"
       }
     }
   ],
