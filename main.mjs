@@ -1,5 +1,5 @@
 import { writeFileSync } from "node:fs";
-import { get } from "node:http";
+import { request } from "node:http";
 import geoblaze from "geoblaze";
 
 // fixes issue with Socrata response times
