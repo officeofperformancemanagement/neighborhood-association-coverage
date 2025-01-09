@@ -7,7 +7,7 @@ const get = (options = {}) => {
   if (typeof options.timeout !== "number") options = { ...options, timeout: 30 * 1000 }; // wait 30 seconds for a connection to be made
   return new Promise((resolve, reject) => {
     let data = "";
-    const req = http.request(options, res => {
+    const req = request(options, res => {
       res.on("data", chunk => (data += chunk));
       res.on("end", () => resolve({
         json: () => JSON.parse(data),
