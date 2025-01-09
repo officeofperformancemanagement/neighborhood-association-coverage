@@ -3,9 +3,9 @@ import { request } from "node:http";
 import geoblaze from "geoblaze";
 
 // fixes issue with Socrata response times
-const get = (options = {}) =>
-  if (typeof options.timeout !== "number") options.timeout = 30 * 1000; // wait 30 seconds for a connection to be made
-  new Promise((resolve, reject) => {
+const get = (options = {}) => {
+  if (typeof options.timeout !== "number") options = { ...options, timeout: 30 * 1000 }; // wait 30 seconds for a connection to be made
+  return new Promise((resolve, reject) => {
     let data = "";
     const req = http.request(options, res => {
       res.on("data", chunk => (data += chunk));
@@ -17,6 +17,7 @@ const get = (options = {}) =>
     req.on("error", reject);
     req.end();
   });
+};
 
 
 // fetch boundaries of the City of Chattanooga
