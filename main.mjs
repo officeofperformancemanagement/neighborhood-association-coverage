@@ -1,8 +1,10 @@
 import { writeFileSync } from "node:fs";
+import { get } from "node:http";
 import geoblaze from "geoblaze";
 
 // fixes issue with Socrata response times
-const get = options =>
+const get = (options = {}) =>
+  if (typeof options.timeout !== "number") options.timeout = 30 * 1000; // wait 30 seconds for a connection to be made
   new Promise((resolve, reject) => {
     let data = "";
     const req = http.request(options, res => {
