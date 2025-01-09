@@ -1,8 +1,24 @@
 import { writeFileSync } from "node:fs";
 import geoblaze from "geoblaze";
 
+// fixes issue with Socrata response times
+const get = options =>
+  new Promise((resolve, reject) => {
+    let data = "";
+    const req = http.request(options, res => {
+      res.on("data", chunk => (data += chunk));
+      res.on("end", () => resolve({
+        json: () => JSON.parse(data),
+        text: () => data
+      }));
+    });
+    req.on("error", reject);
+    req.end();
+  });
+
+
 // fetch boundaries of the City of Chattanooga
-const city_council_response = await fetch("https://internal.chattadata.org/api/views/5t2x-jnde/rows.geojson");
+const city_council_response = await get("https://internal.chattadata.org/api/views/5t2x-jnde/rows.geojson");
 const city_council_data = await city_council_response.json();
 writeFileSync("./data/city-council-districts.geojson", JSON.stringify(city_council_data, undefined, 2));
 
@@ -18,7 +34,7 @@ console.log("total:", total);
 
 console.log("fetching neighborhood association boundaries");
 // using undocumented API, which seems to be more reliable
-const neighborhood_association_boundaries_response = await fetch("https://www.chattadata.org/api/views/dxzz-idjy/rows.geojson");
+const neighborhood_association_boundaries_response = await get("https://www.chattadata.org/api/views/dxzz-idjy/rows.geojson");
 console.log("fetched neighborhood association boundaries");
 const neighborhood_association_boundaries_data = await neighborhood_association_boundaries_response.json();
 writeFileSync("./data/neighborhood-association-boundaries.geojson", JSON.stringify(neighborhood_association_boundaries_data, undefined, 2));
