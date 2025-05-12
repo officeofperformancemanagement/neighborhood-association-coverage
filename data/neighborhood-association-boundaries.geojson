@@ -13365,126 +13365,6 @@
           [
             [
               [
-                -85.2459065,
-                35.0768636
-              ],
-              [
-                -85.2450171,
-                35.0773058
-              ],
-              [
-                -85.2443852,
-                35.0779235
-              ],
-              [
-                -85.2428639,
-                35.0788518
-              ],
-              [
-                -85.2439196,
-                35.080436
-              ],
-              [
-                -85.2455161,
-                35.0814096
-              ],
-              [
-                -85.2632938,
-                35.0640238
-              ],
-              [
-                -85.2587877,
-                35.0623026
-              ],
-              [
-                -85.2527581,
-                35.060476
-              ],
-              [
-                -85.251881,
-                35.0616988
-              ],
-              [
-                -85.2512815,
-                35.0620556
-              ],
-              [
-                -85.2504299,
-                35.062768
-              ],
-              [
-                -85.2452533,
-                35.063756
-              ],
-              [
-                -85.2411923,
-                35.0655342
-              ],
-              [
-                -85.2410931,
-                35.0668657
-              ],
-              [
-                -85.2410971,
-                35.0676368
-              ],
-              [
-                -85.2411313,
-                35.0678994
-              ],
-              [
-                -85.2412942,
-                35.0682674
-              ],
-              [
-                -85.241474,
-                35.0686417
-              ],
-              [
-                -85.2426689,
-                35.0698563
-              ],
-              [
-                -85.2433274,
-                35.0705615
-              ],
-              [
-                -85.2417503,
-                35.0722979
-              ],
-              [
-                -85.2427481,
-                35.0726821
-              ],
-              [
-                -85.24204,
-                35.0740869
-              ],
-              [
-                -85.2434153,
-                35.075765
-              ],
-              [
-                -85.2459065,
-                35.0768636
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Glass Farm Community",
-        "description": "Official Contact: Jessica Bonham<br><br>Social Media: Private Facebook Group: https://www.facebook.com/share/g/18vgLt4UEr/<br><br>Meetings: \"bi-monthly on the first Thursday 6 -7 pm at Rise (2901 Taylor St)<br> Jan, March, May, July, September, November\"<br><br>Contact: Jessica Bonham; jmlhewson@gmail.com; (423) 933-5898<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 -85.1891217,
                 35.1393281
               ],
@@ -16719,6 +16599,74 @@
       "properties": {
         "name": "One North Shore Condominium Association",
         "description": "President: Kathleen Cain<br><br>Meetings: Third Tuesday of the month, monthly meetings<br><br>To contact this group, please email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.2483923,
+                35.0724418
+              ],
+              [
+                -85.2532596,
+                35.0637521
+              ],
+              [
+                -85.2487359,
+                35.0622467
+              ],
+              [
+                -85.2429853,
+                35.0647056
+              ],
+              [
+                -85.2417368,
+                35.0658597
+              ],
+              [
+                -85.2426849,
+                35.0664092
+              ],
+              [
+                -85.2433715,
+                35.0671644
+              ],
+              [
+                -85.2432642,
+                35.0682357
+              ],
+              [
+                -85.2438221,
+                35.0690084
+              ],
+              [
+                -85.2437792,
+                35.0694299
+              ],
+              [
+                -85.2432818,
+                35.0706718
+              ],
+              [
+                -85.2485643,
+                35.0725384
+              ],
+              [
+                -85.2483923,
+                35.0724418
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Glass Farm Community",
+        "description": "Official Contact: Jessica Bonham<br><br>Social Media: Private Facebook Group: https://www.facebook.com/share/g/18vgLt4UEr/<br><br>Meetings: \"bi-monthly on the first Thursday 6 -7 pm at Rise (2901 Taylor St)<br>Jan, March, May, July, September, November\"<br><br>Contact: Jessica Bonham; jmlhewson@gmail.com; (423) 933-5898<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
       }
     }
   ],
