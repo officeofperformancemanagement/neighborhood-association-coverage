@@ -16820,6 +16820,82 @@
         "name": "Alta Vista Neighborhood Association",
         "description": "Interim President: Kenneth Basham<br>Contact: KBasham55@gmail.com<br><br>Meeting Date, Time & Location: Quarterly, TBD<br><br>If you'd like help contacting this Neighborhood Association, please use the contact information above or you may contact Neighborhood Services at neighborhoods @chattanooga.gov"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.3201938,
+                35.1147745
+              ],
+              [
+                -85.3211057,
+                35.1134492
+              ],
+              [
+                -85.3184879,
+                35.1122732
+              ],
+              [
+                -85.3194964,
+                35.1112815
+              ],
+              [
+                -85.3198397,
+                35.1102721
+              ],
+              [
+                -85.3192604,
+                35.1101756
+              ],
+              [
+                -85.31528,
+                35.1148973
+              ],
+              [
+                -85.3157091,
+                35.115108
+              ],
+              [
+                -85.3160524,
+                35.1151343
+              ],
+              [
+                -85.3171468,
+                35.1139934
+              ],
+              [
+                -85.3176081,
+                35.1142479
+              ],
+              [
+                -85.3180265,
+                35.1144849
+              ],
+              [
+                -85.3185201,
+                35.1145902
+              ],
+              [
+                -85.3195608,
+                35.1145375
+              ],
+              [
+                -85.3201938,
+                35.1147745
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "The Oxford Owners’ Association",
+        "description": "President: Ralph Noble<br>Contact: noble@catt.com<br><br>Meeting Date, Time & Location: Board Monthly, date varies, at the Oxford Clubhouse, annual meeting yearly in March<br><br>For help reaching this Neighborhood Association, please contact the information listed or reach out to Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
     }
   ],
   "crs": {
