@@ -12585,202 +12585,6 @@
           [
             [
               [
-                -85.1992988,
-                35.1438859
-              ],
-              [
-                -85.1988654,
-                35.1436419
-              ],
-              [
-                -85.1992094,
-                35.1439644
-              ],
-              [
-                -85.1992988,
-                35.1438859
-              ]
-            ]
-          ],
-          [
-            [
-              [
-                -85.1992094,
-                35.1439644
-              ],
-              [
-                -85.1990006,
-                35.1441478
-              ],
-              [
-                -85.1992586,
-                35.1440106
-              ],
-              [
-                -85.1992094,
-                35.1439644
-              ]
-            ]
-          ],
-          [
-            [
-              [
-                -85.1990006,
-                35.1441478
-              ],
-              [
-                -85.1985692,
-                35.1443772
-              ],
-              [
-                -85.1983668,
-                35.1437728
-              ],
-              [
-                -85.1982501,
-                35.1433789
-              ],
-              [
-                -85.1988174,
-                35.1436149
-              ],
-              [
-                -85.1988654,
-                35.1436419
-              ],
-              [
-                -85.1976493,
-                35.1425016
-              ],
-              [
-                -85.1965871,
-                35.1419489
-              ],
-              [
-                -85.195407,
-                35.1417646
-              ],
-              [
-                -85.1932397,
-                35.1409751
-              ],
-              [
-                -85.1913246,
-                35.1404575
-              ],
-              [
-                -85.1900533,
-                35.1402469
-              ],
-              [
-                -85.188959,
-                35.139273
-              ],
-              [
-                -85.1897529,
-                35.1377464
-              ],
-              [
-                -85.1818779,
-                35.1352897
-              ],
-              [
-                -85.1807138,
-                35.1351712
-              ],
-              [
-                -85.1800218,
-                35.1347369
-              ],
-              [
-                -85.1791743,
-                35.1360793
-              ],
-              [
-                -85.1787451,
-                35.1364654
-              ],
-              [
-                -85.176889,
-                35.1378341
-              ],
-              [
-                -85.1761944,
-                35.1385536
-              ],
-              [
-                -85.1754191,
-                35.1394836
-              ],
-              [
-                -85.1740888,
-                35.1415892
-              ],
-              [
-                -85.1758912,
-                35.1427823
-              ],
-              [
-                -85.1791099,
-                35.1437474
-              ],
-              [
-                -85.1810196,
-                35.1442913
-              ],
-              [
-                -85.1835516,
-                35.1446773
-              ],
-              [
-                -85.185633,
-                35.1425016
-              ],
-              [
-                -85.1874112,
-                35.1435174
-              ],
-              [
-                -85.1900505,
-                35.1446404
-              ],
-              [
-                -85.1921963,
-                35.1466757
-              ],
-              [
-                -85.1945781,
-                35.1472371
-              ],
-              [
-                -85.1965951,
-                35.1465704
-              ],
-              [
-                -85.1975607,
-                35.1454124
-              ],
-              [
-                -85.1990006,
-                35.1441478
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Bay Pointe Estates Marina Cove",
-        "description": "President: Glen Vey<br><br>Social Media: Facebook Group<br><br>Meetings: second Tuesday of every month, 7pm, at neighborhood pavilion or president's house<br><br>Contact: Glen Vey, 423-400-4316<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 -85.2069453,
                 35.1457343
               ],
@@ -13059,50 +12863,6 @@
       "properties": {
         "name": "Lookout Valley Neighborhood Association",
         "description": "President: Sherrie Ford<br><br>Social Media: We have an email distribution list and live stream our meetings. https://www.facebook.com/LVNAssociation<br><br>Meetings: 1st Thursday Monthly, 6:30PM at John A. Patton Community Center, 3202 Kelly's Ferry Road<br><br>Contact: Email - ford.lvna@gmail.com<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -85.327514,
-                35.0602367
-              ],
-              [
-                -85.3193279,
-                35.0650053
-              ],
-              [
-                -85.3266879,
-                35.0692379
-              ],
-              [
-                -85.3295096,
-                35.0671919
-              ],
-              [
-                -85.3307112,
-                35.0594551
-              ],
-              [
-                -85.3293272,
-                35.0588053
-              ],
-              [
-                -85.327514,
-                35.0602367
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "South Stringers Ridge",
-        "description": "President: Ralph Cousins<br><br>Social Media: https://www.facebook.com/groups/1878190749068915<br><br>Meetings: No meetings held.<br><br>Contact: Ralph Cousins ralphcousins@hotmail.com<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov"
       }
     },
     {
@@ -16907,6 +16667,142 @@
       "properties": {
         "name": "Shawnee Hills Neighborhood Association",
         "description": "President: Richard Atkerson<br><br>Social Media: shawneehillsna.com<br><br>Meetings: First Tuesday of each month, 6 pm -7, our meeting are on Zoom<br><br>Contact: Richard Atkerson 423 314 3220<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.1931048,
+                35.1512414
+              ],
+              [
+                -85.1932227,
+                35.1500922
+              ],
+              [
+                -85.1903367,
+                35.1463113
+              ],
+              [
+                -85.1884591,
+                35.1442234
+              ],
+              [
+                -85.1855946,
+                35.142381
+              ],
+              [
+                -85.1814533,
+                35.1408895
+              ],
+              [
+                -85.1804448,
+                35.1427144
+              ],
+              [
+                -85.182333,
+                35.1445041
+              ],
+              [
+                -85.1831484,
+                35.144469
+              ],
+              [
+                -85.1830411,
+                35.1448374
+              ],
+              [
+                -85.1829338,
+                35.1468026
+              ],
+              [
+                -85.1833952,
+                35.1477763
+              ],
+              [
+                -85.1848865,
+                35.1485746
+              ],
+              [
+                -85.1905728,
+                35.1517152
+              ],
+              [
+                -85.1931048,
+                35.1512414
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bay Pointe Estates & Marcie Cove Place HOA",
+        "description": "President: Glen Vey<br><br>Social Media: Facebook Group<br><br>Meetings: second Tuesday of every month, 7pm, at neighborhood pavilion or president's house<br><br>Contact: Glen Vey, 423-400-4316<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.3207563,
+                35.0689546
+              ],
+              [
+                -85.3232669,
+                35.066531
+              ],
+              [
+                -85.3271507,
+                35.0647747
+              ],
+              [
+                -85.3293179,
+                35.0616133
+              ],
+              [
+                -85.3298115,
+                35.0593124
+              ],
+              [
+                -85.3292536,
+                35.0589786
+              ],
+              [
+                -85.3269147,
+                35.0616659
+              ],
+              [
+                -85.3238891,
+                35.063756
+              ],
+              [
+                -85.3200053,
+                35.0648625
+              ],
+              [
+                -85.3199409,
+                35.0689195
+              ],
+              [
+                -85.3207563,
+                35.0689546
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South Stringers Ridge Neighborhood Association",
+        "description": "President: Ralph Cousins<br><br>Social Media: https://www.facebook.com/groups/1878190749068915<br><br>Meetings: No meetings held.<br><br>Contact: Ralph Cousins ralphcousins@hotmail.com<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov"
       }
     }
   ],
