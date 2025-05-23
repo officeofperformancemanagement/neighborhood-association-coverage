@@ -11583,74 +11583,6 @@
           [
             [
               [
-                -85.1978728,
-                35.0760734
-              ],
-              [
-                -85.2006623,
-                35.0777943
-              ],
-              [
-                -85.2012632,
-                35.0781455
-              ],
-              [
-                -85.2019927,
-                35.0763368
-              ],
-              [
-                -85.2021322,
-                35.0748243
-              ],
-              [
-                -85.2027652,
-                35.0737685
-              ],
-              [
-                -85.2052329,
-                35.0746773
-              ],
-              [
-                -85.2065848,
-                35.074967
-              ],
-              [
-                -85.2083013,
-                35.0727017
-              ],
-              [
-                -85.2021643,
-                35.0694703
-              ],
-              [
-                -85.2008555,
-                35.0720694
-              ],
-              [
-                -85.1994178,
-                35.0731934
-              ],
-              [
-                -85.1978728,
-                35.0760734
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Cherokee Woods Neighborhood Association",
-        "description": "President: Saundra J. Adams<br><br>Meetings: Oakwood Baptist Church Contact President for Meeting Dates & Times<br><br>Contact: Saundra Adams; (423) 894-0551; saundrabutterfly@yahoo.com<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 -85.2405452,
                 35.021314
               ],
@@ -16863,6 +16795,98 @@
       "properties": {
         "name": "South Stringers Ridge Neighborhood Association",
         "description": "President: Ralph Cousins<br><br>Social Media: https://www.facebook.com/groups/1878190749068915<br><br>Meetings: No meetings held.<br><br>Contact: Ralph Cousins ralphcousins@hotmail.com<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.2068255,
+                35.0823453
+              ],
+              [
+                -85.2097867,
+                35.0815726
+              ],
+              [
+                -85.2168248,
+                35.0804839
+              ],
+              [
+                -85.2185414,
+                35.0802381
+              ],
+              [
+                -85.2209018,
+                35.0765856
+              ],
+              [
+                -85.2213309,
+                35.0751807
+              ],
+              [
+                -85.2224896,
+                35.0747592
+              ],
+              [
+                -85.2265237,
+                35.0744783
+              ],
+              [
+                -85.2284549,
+                35.0727573
+              ],
+              [
+                -85.2277682,
+                35.0708606
+              ],
+              [
+                -85.2233479,
+                35.0697718
+              ],
+              [
+                -85.217211,
+                35.068999
+              ],
+              [
+                -85.214207,
+                35.068718
+              ],
+              [
+                -85.2126191,
+                35.067875
+              ],
+              [
+                -85.2081988,
+                35.0697366
+              ],
+              [
+                -85.1970408,
+                35.0705094
+              ],
+              [
+                -85.1992723,
+                35.0752334
+              ],
+              [
+                -85.2006886,
+                35.0769368
+              ],
+              [
+                -85.2068255,
+                35.0823453
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cherokee Woods Neighborhood Association",
+        "description": "President: Saundra J. Adams<br><br>Meetings: Oakwood Baptist Church Contact President for Meeting Dates & Times<br><br>Contact: Saundra Adams; (423) 894-0551; saundrabutterfly@yahoo.com<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
       }
     }
   ],
