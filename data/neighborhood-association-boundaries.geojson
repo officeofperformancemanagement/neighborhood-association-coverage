@@ -16888,6 +16888,58 @@
         "name": "Cherokee Woods Neighborhood Association",
         "description": "President: Saundra J. Adams<br><br>Meetings: Oakwood Baptist Church Contact President for Meeting Dates & Times<br><br>Contact: Saundra Adams; (423) 894-0551; saundrabutterfly@yahoo.com<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.1641205,
+                35.0504443
+              ],
+              [
+                -85.1631334,
+                35.0521482
+              ],
+              [
+                -85.1686051,
+                35.0540629
+              ],
+              [
+                -85.1698819,
+                35.0529299
+              ],
+              [
+                -85.1693454,
+                35.0514368
+              ],
+              [
+                -85.1678863,
+                35.0508835
+              ],
+              [
+                -85.1671246,
+                35.0506463
+              ],
+              [
+                -85.1657084,
+                35.0508923
+              ],
+              [
+                -85.1641205,
+                35.0504443
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Hickory Creek Town Home Association",
+        "description": "Association Contact: Robin Church<br><br>Meetings: Board Meetings are The third Tuesday of every month at 6:15 At the clubhouse. Association meetings are the third Thursday in March yearly.<br><br>Contact: Robin Church robinchurchbird@gmail.com 8124806939<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
     }
   ],
   "crs": {
