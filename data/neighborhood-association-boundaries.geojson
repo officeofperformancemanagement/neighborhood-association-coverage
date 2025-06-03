@@ -16988,6 +16988,66 @@
         "name": "Hickory Creek Town Home Association",
         "description": "Association Contact: Robin Church<br><br>Meetings: Board Meetings are The third Tuesday of every month at 6:15 At the clubhouse. Association meetings are the third Thursday in March yearly.<br><br>Contact: Robin Church robinchurchbird@gmail.com 8124806939<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.2228085,
+                35.0107048
+              ],
+              [
+                -85.2249758,
+                35.0076467
+              ],
+              [
+                -85.2250187,
+                35.0072073
+              ],
+              [
+                -85.2266924,
+                35.0054849
+              ],
+              [
+                -85.2256195,
+                35.0050806
+              ],
+              [
+                -85.2211992,
+                35.0048346
+              ],
+              [
+                -85.2198903,
+                35.0050455
+              ],
+              [
+                -85.2194397,
+                35.0058364
+              ],
+              [
+                -85.2190964,
+                35.0058188
+              ],
+              [
+                -85.2202551,
+                35.0099139
+              ],
+              [
+                -85.2228085,
+                35.0107048
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Midtown Neighborhood Association",
+        "description": "President: Duan Bush<br><br>Social Media: Not yet<br><br>Meetings: To be determined<br><br>Contact: duanbush1@gmail.com<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
     }
   ],
   "crs": {
