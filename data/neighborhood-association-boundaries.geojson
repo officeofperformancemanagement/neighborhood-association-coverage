@@ -5201,298 +5201,6 @@
           [
             [
               [
-                -85.2316605,
-                35.0065679
-              ],
-              [
-                -85.2315962,
-                35.0066647
-              ],
-              [
-                -85.2315136,
-                35.0069872
-              ],
-              [
-                -85.2312517,
-                35.0073799
-              ],
-              [
-                -85.2304497,
-                35.008818
-              ],
-              [
-                -85.2296437,
-                35.0103432
-              ],
-              [
-                -85.2289235,
-                35.0116927
-              ],
-              [
-                -85.2288246,
-                35.011911
-              ],
-              [
-                -85.2286119,
-                35.0122809
-              ],
-              [
-                -85.2282621,
-                35.0129834
-              ],
-              [
-                -85.2283667,
-                35.013148
-              ],
-              [
-                -85.2284447,
-                35.013184
-              ],
-              [
-                -85.2285347,
-                35.013226
-              ],
-              [
-                -85.2293087,
-                35.013557
-              ],
-              [
-                -85.2297887,
-                35.013754
-              ],
-              [
-                -85.2306507,
-                35.01412
-              ],
-              [
-                -85.2319467,
-                35.014661
-              ],
-              [
-                -85.2335787,
-                35.015341
-              ],
-              [
-                -85.2340857,
-                35.015549
-              ],
-              [
-                -85.2341737,
-                35.015585
-              ],
-              [
-                -85.2342747,
-                35.015628
-              ],
-              [
-                -85.2352377,
-                35.016033
-              ],
-              [
-                -85.2353247,
-                35.016072
-              ],
-              [
-                -85.2356517,
-                35.016217
-              ],
-              [
-                -85.2360377,
-                35.016458
-              ],
-              [
-                -85.2365697,
-                35.016793
-              ],
-              [
-                -85.2367457,
-                35.016907
-              ],
-              [
-                -85.2375557,
-                35.017396
-              ],
-              [
-                -85.2382247,
-                35.017827
-              ],
-              [
-                -85.2386547,
-                35.018105
-              ],
-              [
-                -85.2390117,
-                35.018362
-              ],
-              [
-                -85.2390827,
-                35.018419
-              ],
-              [
-                -85.2392227,
-                35.01855
-              ],
-              [
-                -85.2393677,
-                35.018696
-              ],
-              [
-                -85.2395167,
-                35.018585
-              ],
-              [
-                -85.2396497,
-                35.018468
-              ],
-              [
-                -85.2397807,
-                35.018361
-              ],
-              [
-                -85.2398717,
-                35.018259
-              ],
-              [
-                -85.2399567,
-                35.018148
-              ],
-              [
-                -85.2400237,
-                35.018032
-              ],
-              [
-                -85.2403267,
-                35.017363
-              ],
-              [
-                -85.2405687,
-                35.016814
-              ],
-              [
-                -85.2410387,
-                35.015748
-              ],
-              [
-                -85.2416117,
-                35.014538
-              ],
-              [
-                -85.2418647,
-                35.013965
-              ],
-              [
-                -85.2423957,
-                35.013021
-              ],
-              [
-                -85.2427027,
-                35.012519
-              ],
-              [
-                -85.2428177,
-                35.012339
-              ],
-              [
-                -85.2433407,
-                35.011389
-              ],
-              [
-                -85.2434007,
-                35.011281
-              ],
-              [
-                -85.2435097,
-                35.011083
-              ],
-              [
-                -85.2435807,
-                35.010954
-              ],
-              [
-                -85.2436637,
-                35.010805
-              ],
-              [
-                -85.2437297,
-                35.010686
-              ],
-              [
-                -85.2431887,
-                35.010485
-              ],
-              [
-                -85.2406357,
-                35.009534
-              ],
-              [
-                -85.2395807,
-                35.009156
-              ],
-              [
-                -85.2390477,
-                35.008939
-              ],
-              [
-                -85.2377017,
-                35.008459
-              ],
-              [
-                -85.2366897,
-                35.008087
-              ],
-              [
-                -85.2360467,
-                35.007862
-              ],
-              [
-                -85.2355677,
-                35.007694
-              ],
-              [
-                -85.2351497,
-                35.007533
-              ],
-              [
-                -85.2340937,
-                35.007145
-              ],
-              [
-                -85.2333117,
-                35.006874
-              ],
-              [
-                -85.2319557,
-                35.006351
-              ],
-              [
-                -85.2318312,
-                35.006371
-              ],
-              [
-                -85.2317705,
-                35.0064685
-              ],
-              [
-                -85.2316605,
-                35.0065679
-              ]
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Belvoir Neighborhood Association",
-        "description": "President: Brian and Barbara Thompson<br><br>Social Media: Website is in process. Facebook: https://www.facebook.com/groups/110551565642833<br><br>Meetings: \"2nd Thursday of the month (no meeting in July and December)<br> 6:30 - 7:30 pm<br> Brainerd BX, CrossView Room\"<br><br>Contact: Belvoir Neighborhood Association, belvoirchatt@gmail.com<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
                 -85.248687,
                 35.025811
               ],
@@ -16501,20 +16209,44 @@
                 35.0057573
               ],
               [
-                -85.2162211,
-                35.0060473
+                -85.2164222,
+                35.0060001
               ],
               [
-                -85.2162264,
-                35.006948
+                -85.215529,
+                35.0056804
               ],
               [
-                -85.216854,
-                35.0079366
+                -85.2138285,
+                35.0057793
               ],
               [
-                -85.2174441,
-                35.0106345
+                -85.2117418,
+                35.0061418
+              ],
+              [
+                -85.2112429,
+                35.0063285
+              ],
+              [
+                -85.2116345,
+                35.0075983
+              ],
+              [
+                -85.2123908,
+                35.0087275
+              ],
+              [
+                -85.2130694,
+                35.0094898
+              ],
+              [
+                -85.2141342,
+                35.010217
+              ],
+              [
+                -85.2146761,
+                35.0114605
               ],
               [
                 -85.2186833,
@@ -16675,6 +16407,102 @@
       "properties": {
         "name": "Biltmore Neighborhood Association",
         "description": "President: Crystal Smith<br><br>Meetings: No meetings held. Meets at Chattanooga Friends - 335 Crestway Dr, Chattanooga, TN 37411<br><br>To contact this group, you may email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.2282621,
+                35.0129834
+              ],
+              [
+                -85.2312957,
+                35.0071479
+              ],
+              [
+                -85.2266924,
+                35.0054849
+              ],
+              [
+                -85.2250187,
+                35.0072073
+              ],
+              [
+                -85.2249758,
+                35.0076467
+              ],
+              [
+                -85.2227441,
+                35.0107663
+              ],
+              [
+                -85.2282621,
+                35.0129834
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South Brainerd Neighborhood Association",
+        "description": "Contact: Jen Gregory & Robyn Pursley Hollis<br><br>Phone: 423-355-5735<br>Email: southbrainerdna@gmail.com<br><br>Meeting Dates, Times & Location: Meeting frequency will be decided at our next meeting when electing officers. Likely monthly meetings<br><br> Social Media: We are working on establishing a neighborhood Facebook page, directory, and newsletter<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.2396009,
+                35.0185619
+              ],
+              [
+                -85.2403734,
+                35.0179293
+              ],
+              [
+                -85.2436349,
+                35.0113918
+              ],
+              [
+                -85.2335928,
+                35.0076658
+              ],
+              [
+                -85.2326915,
+                35.0075955
+              ],
+              [
+                -85.2312957,
+                35.0071479
+              ],
+              [
+                -85.2282621,
+                35.0129834
+              ],
+              [
+                -85.2362535,
+                35.0163828
+              ],
+              [
+                -85.2396009,
+                35.0185619
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Belvoir Neighborhood Association",
+        "description": "President: Brian and Barbara Thompson<br><br>Social Media: Website is in process. Facebook: https://www.facebook.com/groups/110551565642833<br><br>Meetings: \"2nd Thursday of the month (no meeting in July and December)<br>6:30 - 7:30 pm<br>Brainerd BX, CrossView Room\"<br><br>Contact: Belvoir Neighborhood Association, belvoirchatt@gmail.com<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
       }
     }
   ],
