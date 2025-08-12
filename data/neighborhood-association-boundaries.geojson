@@ -16732,6 +16732,54 @@
         "name": "Brainerd Park Neighborhood Association",
         "description": "President: Sadie Triplett<br><br>Social Media: https://www.facebook.com/groups/1984826878925992<br> <br>Meetings: Next meeting is 7-23-25 bi weekly until otherwise. <br><br>Contact: Brainerdparktn@gmail.com<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.15566,
+                35.0222688
+              ],
+              [
+                -85.1560731,
+                35.0223875
+              ],
+              [
+                -85.1563842,
+                35.0218559
+              ],
+              [
+                -85.1569731,
+                35.0220741
+              ],
+              [
+                -85.1573391,
+                35.0213726
+              ],
+              [
+                -85.1557405,
+                35.0208059
+              ],
+              [
+                -85.1550646,
+                35.0220668
+              ],
+              [
+                -85.15566,
+                35.0222688
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Magnolia Gardens Homeowners Association",
+        "description": "President: Mark Allison<br><br>Meetings: No set meetings, meets as needed.<br><br>Contact: magnolialeaflane@gmail.com<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
     }
   ],
   "crs": {
