@@ -16780,6 +16780,50 @@
         "name": "Magnolia Gardens Homeowners Association",
         "description": "President: Mark Allison<br><br>Meetings: No set meetings, meets as needed.<br><br>Contact: magnolialeaflane@gmail.com<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.143996,
+                35.0501195
+              ],
+              [
+                -85.1448317,
+                35.0496768
+              ],
+              [
+                -85.148222,
+                35.0436337
+              ],
+              [
+                -85.1465547,
+                35.0430197
+              ],
+              [
+                -85.1400037,
+                35.0405945
+              ],
+              [
+                -85.1364107,
+                35.0473879
+              ],
+              [
+                -85.143996,
+                35.0501195
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "The Pinewood and Mintom Drive Historical Society",
+        "description": "President: Dan Read<br><br>Meetings: Bi-monthly- 6:30pm- Monday- Hawkinsville Missionary Baptist Church<br><br>Contact: Mr. Dan Reed- 423-834-1847-terryfranklin26@Yahoo.com<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
     }
   ],
   "crs": {
