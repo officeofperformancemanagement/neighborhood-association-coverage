@@ -16604,6 +16604,50 @@
         "name": "The Pinewood and Mintom Drive Historical Society",
         "description": "President: Dan Read<br><br>Meetings: Bi-monthly- 6:30pm- Monday- Hawkinsville Missionary Baptist Church<br><br>Contact: Mr. Dan Reed- 423-834-1847-terryfranklin26@Yahoo.com<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.2347263,
+                35.0272668
+              ],
+              [
+                -85.2345314,
+                35.0250129
+              ],
+              [
+                -85.235673,
+                35.022558
+              ],
+              [
+                -85.2251281,
+                35.0187834
+              ],
+              [
+                -85.2229823,
+                35.0228778
+              ],
+              [
+                -85.2288005,
+                35.0251691
+              ],
+              [
+                -85.2347263,
+                35.0272668
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sequoia Place Neighborhood Association",
+        "description": "President: Dale Ledford<br><br>Meetings: Quarterly<br><br>Contact: Dale Ledford rdledford@epbfi.com 423-326-9821<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
     }
   ],
   "crs": {
