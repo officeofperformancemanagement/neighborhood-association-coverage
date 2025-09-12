@@ -16648,6 +16648,134 @@
         "name": "Sequoia Place Neighborhood Association",
         "description": "President: Dale Ledford<br><br>Meetings: Quarterly<br><br>Contact: Dale Ledford rdledford@epbfi.com 423-326-9821<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.1749378,
+                35.0016856
+              ],
+              [
+                -85.1758713,
+                35.001712
+              ],
+              [
+                -85.1770622,
+                35.0014923
+              ],
+              [
+                -85.1783603,
+                35.0014571
+              ],
+              [
+                -85.1791596,
+                35.0011451
+              ],
+              [
+                -85.1793581,
+                35.0007804
+              ],
+              [
+                -85.1801185,
+                35.0013791
+              ],
+              [
+                -85.1813403,
+                35.0021888
+              ],
+              [
+                -85.1827659,
+                35.0012759
+              ],
+              [
+                -85.1834083,
+                35.0005914
+              ],
+              [
+                -85.1845804,
+                34.9998554
+              ],
+              [
+                -85.1850377,
+                34.9993907
+              ],
+              [
+                -85.1851946,
+                34.9988909
+              ],
+              [
+                -85.1846582,
+                34.9977967
+              ],
+              [
+                -85.1844798,
+                34.9971655
+              ],
+              [
+                -85.1842619,
+                34.9967708
+              ],
+              [
+                -85.1840225,
+                34.9966047
+              ],
+              [
+                -85.1829322,
+                34.9967294
+              ],
+              [
+                -85.1819491,
+                34.9970298
+              ],
+              [
+                -85.1799267,
+                34.9973001
+              ],
+              [
+                -85.179047,
+                34.9970101
+              ],
+              [
+                -85.1783925,
+                34.9970936
+              ],
+              [
+                -85.1781028,
+                34.9974408
+              ],
+              [
+                -85.1769334,
+                34.998636
+              ],
+              [
+                -85.1758498,
+                34.9985921
+              ],
+              [
+                -85.175131,
+                34.9990139
+              ],
+              [
+                -85.1762468,
+                34.999717
+              ],
+              [
+                -85.1749378,
+                35.0016856
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Audubon Bird Sanctuary Neighborhood Watch",
+        "description": "President: Jim Ingersoll<br><br>Meetings: Sept 14, 2025, 7pm at Audubon Acres Welcome Center<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
     }
   ],
   "crs": {
