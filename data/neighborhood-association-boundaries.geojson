@@ -16776,6 +16776,46 @@
         "name": "Audubon Bird Sanctuary Neighborhood Watch",
         "description": "President: Jim Ingersoll<br><br>Meetings: Sept 14, 2025, 7pm at Audubon Acres Welcome Center<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.178184,
+                35.0569983
+              ],
+              [
+                -85.1811022,
+                35.0580522
+              ],
+              [
+                -85.1820142,
+                35.0559707
+              ],
+              [
+                -85.1792569,
+                35.0548993
+              ],
+              [
+                -85.1785595,
+                35.0560147
+              ],
+              [
+                -85.178184,
+                35.0569983
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Friar Branch HOA",
+        "description": "Contact: Tina Cline - tinapc61@gmail.com<br><br>Meetings: Monthly at Susan Wilson's home<br><br>To reach this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
     }
   ],
   "crs": {
