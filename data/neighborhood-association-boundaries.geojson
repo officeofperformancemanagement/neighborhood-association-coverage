@@ -16976,6 +16976,46 @@
         "name": "Stuart Heights Neighborhood Association",
         "description": "Contact: Mary Martha McDaniel or Abby Amonette<br><br>Social Media: https://www.facebook.com/StuartHeightsNeighborhood/<br><br>Meetings: Quarterly<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -85.2397926,
+                35.0186281
+              ],
+              [
+                -85.2453716,
+                35.0207017
+              ],
+              [
+                -85.2475603,
+                35.0166423
+              ],
+              [
+                -85.2421529,
+                35.0145862
+              ],
+              [
+                -85.240329,
+                35.0181009
+              ],
+              [
+                -85.2397926,
+                35.0186281
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Hilltop Neighborhood Association",
+        "description": "President: Sarah Moore<br><br>Social Media: https://www.facebook.com/share/g/1HrjVYo7se/<br><br>Meetings: Quarterly - November 20, 2025 <br>Location - President’s House<br><br>Contact: Sarah Moore - sarahgmoore@gmail.com<br><br>To contact this group, you may also email Neighborhood Services at neighborhoods@chattanooga.gov."
+      }
     }
   ],
   "crs": {
